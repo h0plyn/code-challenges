@@ -6,7 +6,8 @@
 
 //https://www.codewars.com/kata/552c028c030765286c00007d/train/javascript
 
-let numbers = "1 2 2";
+// let numbers = "2 2 9 2 2 2";
+let numbers = "2 4 7 8 10"
 
 function iqTest(numbers){
     //Empty Array for Number
@@ -34,11 +35,11 @@ function iqTest(numbers){
      };
    
     //Blocking the first indices to start at 1
-   numArray.unshift(null);
+   numArray.unshift(NaN);
    
    //if even >  odd, return indexOf odd
    let even = (element) => element % 2 === 0
-   let odd = (element) => element % 2 != 0
+   let odd = (element) => element % 2
    if (evenEl > oddEl) {
        return numArray.findIndex(odd)
    } else {
