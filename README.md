@@ -3,15 +3,15 @@
 ## Completed Technical Challenges
 
 #### Code Wars
-  kyu6-iq-test
-  kyu6-who-likes-it
+  1. kyu6-iq-test
+  2. kyu6-who-likes-it
   
   
 #### HackerRank
 
 
 #### Leetcode
-  twoSum
+  1. twoSum
   
 #### Codecademy
-  Credit Card Checker
+  1. Credit Card Checker
