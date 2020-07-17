@@ -1,15 +1,13 @@
 # Code Challenges
-
-
 ____
 
 ## Completed Technical Challenges
 
-### Code Wars
+#### Code Wars
   kyu-6
   
   
-### HackerRank
+#### HackerRank
 
 
-### Leetcode
+#### Leetcode
