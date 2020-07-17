@@ -1,5 +1,4 @@
 # Code Challenges
-____
 
 ## Completed Technical Challenges
 
