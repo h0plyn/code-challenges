@@ -10,7 +10,7 @@
   1. [twoSum](./src/leetcode/twoSum.js)
   
 #### Codecademy
-  1. Credit Card Checker
+  1. [Credit Card Checker](https://github.com/h0plyn/credit-card-checker/blob/master/main.js)
 
 #### Hack Reactor
   1. [Code Challenge](./src/hackreactor/hackreactor-coding-challenge.js)
