@@ -24,6 +24,7 @@
   4. [findBob](./src/edabit/findBob.js)
   5. [monthName](./src/edabit/monthName.js)
   6. [triArea](./src/edabit/triArea.js)
+  7. [capToFront](./src/edabit/capToFront.js)
 
    
    
