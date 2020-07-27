@@ -25,6 +25,7 @@
   5. [monthName](./src/edabit/monthName.js)
   6. [triArea](./src/edabit/triArea.js)
   7. [capToFront](./src/edabit/capToFront.js)
+  8. [yenToUsd](./src/edabit/yenToUsd.js)
 
    
    
