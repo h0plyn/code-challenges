@@ -6,3 +6,4 @@ function yenToUsd(yen){
 }
 
 console.log(yenToUsd(1000)) //9.3
+
