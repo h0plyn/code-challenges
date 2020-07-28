@@ -16,14 +16,14 @@
   1. [transformEmployeeData](.src/hackreactor/transformEmployeeData.js)
   2. [findPairForSum](./src/hackreactor/findPairForSum.js)
   3. [detectNetwork](./src/hackreactor/detectNetwork.js)
-  4. [convertObjectToArray](.src/hackreactor/convertObjectToArray.js)
-  5. [getAllKeys](.src/hackreactor/getAllKeys.js)
-  6. [greetCustomer](.src/hackreactor/greetCustomer.js)
-  7. [isOldEnoughToDrink](.src/hackreactor/isOldEnoughToDrink.js)
-  8. [listAllValue](.src/hackreactor/listAllValue.js)
-  9. [transformArrayToObject](.src/hackreactor/transformArrayToObject.js)
+  4. [convertObjectToArray](./src/hackreactor/convertObjectToArray.js)
+  5. [getAllKeys](./src/hackreactor/getAllKeys.js)
+  6. [greetCustomer](./src/hackreactor/greetCustomer.js)
+  7. [isOldEnoughToDrink](./src/hackreactor/isOldEnoughToDrink.js)
+  8. [listAllValue](./src/hackreactor/listAllValue.js)
+  9. [transformArrayToObject](./src/hackreactor/transformArrayToObject.js)
   10. [Code Challenge](./src/hackreactor/hackreactor-coding-challenge.js)
-  11. [transformFirstAndLast](.src/hackreactor/transformFirstAndLast.js)
+  11. [transformFirstAndLast](./src/hackreactor/transformFirstAndLast.js)
  
 
 #### Edabit
