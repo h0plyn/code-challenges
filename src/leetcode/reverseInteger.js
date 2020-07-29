@@ -15,19 +15,23 @@
 
 
 var reverse = function(x) {
-    let reversedArray = x.toString().split('').reverse()
-    let negativeCheck = reversedArray[reversedArray.length - 1];
-    
-    if (negativeCheck === '-') {
+    const reversedArray = x.toString().split('').reverse();
+    let reversedNumber;
+
+    if (reversedArray.includes('-')) {
         reversedArray.pop()
-        const arrToString = reversedArray.join('')
-        const stringToNumber = Number(arrToString)
-        const makeNegative = -Math.abs(stringToNumber)
-        return makeNegative;
+       reversedNumber = -Math.abs(reversedArray.join(''));
     } else {
-        return Number(reversedArray.join(''));
-    }
-};
+       reversedNumber = Number(reversedArray.join(''));
+    };
+    //Add 32 bit integer handling
+    if ((reversedNumber < -Math.pow(2,31) - 1) || (reversedNumber > Math.pow(2,31) - 1)) {
+        return 0;
+    };
+       return reversedNumber;
+    };
 
 
-console.log(reverse(-123));
+
+
+console.log(reverse(-1534236469));
