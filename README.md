@@ -38,5 +38,6 @@
   7. [capToFront](./src/edabit/capToFront.js)
   8. [yenToUsd](./src/edabit/yenToUsd.js)
 
-   
+#### Personal
+  1. [Simple String Reverse](./src/personal/reverseString.js)
    
