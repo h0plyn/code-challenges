@@ -15,7 +15,7 @@
   1. [Credit Card Checker](https://github.com/h0plyn/credit-card-checker/blob/master/main.js)
 
 #### Hack Reactor
-  1. [transformEmployeeData](.src/hackreactor/transformEmployeeData.js)
+  1. [transformEmployeeData](./src/hackreactor/transformEmployeeData.js)
   2. [findPairForSum](./src/hackreactor/findPairForSum.js)
   3. [detectNetwork](./src/hackreactor/detectNetwork.js)
   4. [convertObjectToArray](./src/hackreactor/convertObjectToArray.js)
@@ -29,8 +29,8 @@
  
 
 #### Edabit
-  1. [and](.src/edabit/and.js)
-  2. [checkAllEven](.src/edabit/checkAllEven.js)
+  1. [and](./src/edabit/and.js)
+  2. [checkAllEven](./src/edabit/checkAllEven.js)
   3. [countTrue](./src/edabit/countTrue.js)
   4. [findBob](./src/edabit/findBob.js)
   5. [monthName](./src/edabit/monthName.js)
