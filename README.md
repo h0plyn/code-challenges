@@ -37,6 +37,9 @@
   6. [triArea](./src/edabit/triArea.js)
   7. [capToFront](./src/edabit/capToFront.js)
   8. [yenToUsd](./src/edabit/yenToUsd.js)
+  9. [lessThanOrEqualToZero](./src/edabit/lessThanOrEqualToZero.js)
+  10. [countWords](./src/edabit/countWords.js)
+  11. [findLargestNum](./src/edabit/findLargestNum.js)
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)
