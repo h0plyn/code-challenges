@@ -40,6 +40,7 @@
   9. [lessThanOrEqualToZero](./src/edabit/lessThanOrEqualToZero.js)
   10. [countWords](./src/edabit/countWords.js)
   11. [findLargestNum](./src/edabit/findLargestNum.js)
+  12. [A Redundant Function](./src/edabit/redundant.js)
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)
