@@ -7,7 +7,6 @@ function bomb(str) {
     return strArr === -1 ? "There is no bomb, relax." : "Duck!!!";
 }
 
-
 console.log(bomb("There is a bomb.")) //➞ "Duck!!!"
 console.log(bomb("Hey, did you think ther is a bomb?")) //➞ "Duck!!!"
-console.log(bomb("This goes boom!!!")) //➞ "There is no bomb, relax."
+console.log(bomb("This goes boom!!!")) //➞ "There is no bomb, relax.

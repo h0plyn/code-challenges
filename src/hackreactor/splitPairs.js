@@ -9,22 +9,16 @@ function splitPairs(input) {
 
     if (input.length % 2) {
         input = input + '_'
-    }
+    } else if (input === '') {
+        return [];
+    };
 
-    for (let i = 0; i < input.length + 1; i++){
-        const inputOne = input.charAt(i)
-        
-        for (let j = i + 1; j < input.length + 1; j++){
-        const inputTwo = input.charAt(j)
-        let pair = input.slice(inputOne, inputTwo)
-        results.push(pair)
-        pair = pair.replace(i, "");
-        pair = pair.replace(j, "");
-        
-        }
-        return results;
-    }
-}
+   for (let i = 0; i < 7 ; i += 2) {
+    results.push(input.slice(i, i+2))
+    };
 
+    return results;
 
-  console.log(splitPairs('Stanley'));
+};
+
+splitPairs('Kaitlin') // [ 'Ka', 'it', 'li', 'n_' ]
