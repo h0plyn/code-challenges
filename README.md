@@ -43,6 +43,7 @@
   12. [A Redundant Function](./src/edabit/redundant.js)
   13. [Eliminate Odd Numbers within an Array](./src/edabit/noOdds.js)
   14. [Count Instances of a Character in a String](./src/edabit/countChar.js)
+  15. [Find The Bomb](./src/edabit/findTheBomb.js)
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)

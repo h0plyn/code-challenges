@@ -9,7 +9,5 @@ function charCount(myChar, str) {
 };
 
 charCount("a", "edabit") //➞ 1
-
 charCount("c", "Chamber of secrets") //➞ 1
-
 charCount("b", "big fat bubble") //➞ 4
