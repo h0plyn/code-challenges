@@ -3,11 +3,8 @@
 
 function charCount(myChar, str) {
 
-    const characterArr = str.split('');
-    
-    let myCharArr = characterArr.filter(char => char === myChar)
-    
-    return myCharArr.length
+    const characterArr = str.split('').filter(char => char === myChar)
+    return characterArr.length
 
 };
 
