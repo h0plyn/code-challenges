@@ -1,7 +1,5 @@
 # Code Challenges
 
-## Completed Technical Challenges
-
 #### Code Wars
 - 6 kyu
   1. [IQ Test](./src/codewars/6-kyu-iq-test.js)
@@ -10,20 +8,12 @@
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
+  3. [Sum of two lowest positive integers](./src/codewars/7-kyu-sum-of-two-lowest.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
 
-
-#### Leetcode
-  1. [twoSum](./src/leetcode/twoSum.js)
-  7. [Reverse Integer](./src/leetcode/reverseInteger.js)
-  9. [Palindrome Number](./src/leetcode/palindromeNumber.js)
-  
-#### Codecademy
-  1. [Credit Card Checker](https://github.com/h0plyn/credit-card-checker/blob/master/main.js)
-
-#### Hack Reactor
+  #### Hack Reactor
   1. [transformEmployeeData](./src/hackreactor/transformEmployeeData.js)
   2. [Split Pairs](./src/hackreactor/splitPairs.js)
   3. [detectNetwork](./src/hackreactor/detectNetwork.js)
@@ -37,7 +27,13 @@
   11. [transformFirstAndLast](./src/hackreactor/transformFirstAndLast.js)
   12. [findPairForSum](./src/hackreactor/findPairForSum.js)
 
- 
+#### Leetcode
+  1. [twoSum](./src/leetcode/twoSum.js)
+  7. [Reverse Integer](./src/leetcode/reverseInteger.js)
+  9. [Palindrome Number](./src/leetcode/palindromeNumber.js)
+  
+#### Codecademy
+  1. [Credit Card Checker](https://github.com/h0plyn/credit-card-checker/blob/master/main.js)
 
 #### Edabit
   1. [and](./src/edabit/and.js)
