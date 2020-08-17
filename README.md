@@ -3,8 +3,10 @@
 ## Completed Technical Challenges
 
 #### Code Wars
-  1. [kyu6-iq-test](./src/codewars/6-kyu-iq-test.js)
-  2. [kyu6-who-likes-it](./src/codewars/kyu6-who-likes-it.js)
+- 6 kyu
+  1. [IQ Test](./src/codewars/6-kyu-iq-test.js)
+  2. [Who Likes It](./src/codewars/kyu6-who-likes-it.js)
+  3. [Create Phone Numbers](./src/codewars/6-kyu-create-phone-numbers.js)
 
 #### Leetcode
   1. [twoSum](./src/leetcode/twoSum.js)
