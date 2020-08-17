@@ -9,6 +9,11 @@
   3. [Create Phone Numbers](./src/codewars/6-kyu-create-phone-numbers.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
+  2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
+- 8 kyu
+  1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
+  2. [Plural](./src/codewars/8-kyu-plural.js)
+
 
 #### Leetcode
   1. [twoSum](./src/leetcode/twoSum.js)
