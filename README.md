@@ -7,6 +7,8 @@
   1. [IQ Test](./src/codewars/6-kyu-iq-test.js)
   2. [Who Likes It](./src/codewars/kyu6-who-likes-it.js)
   3. [Create Phone Numbers](./src/codewars/6-kyu-create-phone-numbers.js)
+- 7 kyu 
+  1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
 
 #### Leetcode
   1. [twoSum](./src/leetcode/twoSum.js)
