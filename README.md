@@ -9,6 +9,7 @@
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
   3. [Sum of two lowest positive integers](./src/codewars/7-kyu-sum-of-two-lowest.js)
+  4. [What's my golf score?](./src/codewars/7-kyu-golf-score.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
