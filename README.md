@@ -52,6 +52,7 @@
   13. [Eliminate Odd Numbers within an Array](./src/edabit/noOdds.js)
   14. [Count Instances of a Character in a String](./src/edabit/countChar.js)
   15. [Find The Bomb](./src/edabit/findTheBomb.js)
+  16. [Recursion: Length of a String](.src/edabit/length-of-string.js)
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)
