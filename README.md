@@ -13,6 +13,7 @@
   5. [99 Bottles of Beer](./src/codewars/7-kyu-99-bottles-of-beer.js)
   6. [A Square of Squares](./src/codewars/7-kyu-square-of-squares.js)
   7. [By 3, or not by 3? That is the question.](./src/codewars/7-kyu-by-3.js)
+  8. [Get the Middle Character](./src/codewars/7-kyu-get-middle-char.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
