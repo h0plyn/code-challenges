@@ -10,6 +10,7 @@
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
   3. [Sum of two lowest positive integers](./src/codewars/7-kyu-sum-of-two-lowest.js)
   4. [What's my golf score?](./src/codewars/7-kyu-golf-score.js)
+  5. [99 Bottles of Beer](./src/codewars/99-bottles-of-beer.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
@@ -53,6 +54,7 @@
   14. [Count Instances of a Character in a String](./src/edabit/countChar.js)
   15. [Find The Bomb](./src/edabit/findTheBomb.js)
   16. [Recursion: Length of a String](.src/edabit/length-of-string.js)
+  17. [Recursion: Find the Index(Part #2)](./src/edabit/find-the-index.js)
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)
