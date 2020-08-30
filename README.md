@@ -1,10 +1,13 @@
 # Code Challenges
 
 #### Code Wars
+- 5 kyu
+  1. [Rot13](./src/codewars/5-kyu-rot13.js)
 - 6 kyu
   1. [IQ Test](./src/codewars/6-kyu-iq-test.js)
   2. [Who Likes It](./src/codewars/kyu6-who-likes-it.js)
   3. [Create Phone Numbers](./src/codewars/6-kyu-create-phone-numbers.js)
+  4. [Split Strings](./src/codewars/6-kyu-split-strings.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
