@@ -8,6 +8,7 @@
   2. [Who Likes It](./src/codewars/kyu6-who-likes-it.js)
   3. [Create Phone Numbers](./src/codewars/6-kyu-create-phone-numbers.js)
   4. [Split Strings](./src/codewars/6-kyu-split-strings.js)
+  5. [Format a List of Names](./src/codewars/6-kyu-format-list-names.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
@@ -61,6 +62,10 @@
   15. [Find The Bomb](./src/edabit/findTheBomb.js)
   16. [Recursion: Length of a String](.src/edabit/length-of-string.js)
   17. [Recursion: Find the Index(Part #2)](./src/edabit/find-the-index.js)
+  18. [FizzBuzz](./src/codewars/fizz-buzz.js)
+
+#### Hacker Rank
+  1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)

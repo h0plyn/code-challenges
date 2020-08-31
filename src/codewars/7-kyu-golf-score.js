@@ -12,5 +12,3 @@ function golfScoreCalculator(parList, scoreList){
 
    return score.reduce((a, b) => a + b);
 }
-
-golfScoreCalculator('443454444344544443', '353445334534445344')

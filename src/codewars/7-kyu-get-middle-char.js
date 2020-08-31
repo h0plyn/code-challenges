@@ -16,6 +16,5 @@ function getMiddle(str) {
     
     return str.length % 2 === 0 
         ? str[middleIdx - 1] + str[middleIdx]
-        : str[Math.floor(middleIdx)]
-    }
-    
+        : str[Math.floor(middleIdx)];
+}
