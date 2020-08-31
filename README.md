@@ -10,7 +10,9 @@
   3. [Create Phone Numbers](./src/codewars/6-kyu-create-phone-numbers.js)
   4. [Split Strings](./src/codewars/6-kyu-split-strings.js)
   5. [Format a List of Names](./src/codewars/6-kyu-format-list-names.js)
-  6. [Dubstep Replace](src/codewars/6-kyu-dubstep.js)
+  6. [Dubstep Replace](./src/codewars/6-kyu-dubstep.js)
+  7. [Mexican Wave](./src/codewars/6-kyu-mexican-wave.js)
+  8. [Multiplication Table](./src/codewars/6-kyu-multiplication-table.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
