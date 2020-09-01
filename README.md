@@ -18,7 +18,8 @@
   11. [Multiples of Three and Five](./src/codewars/6-kyu-multiples-3-5.js)
   12. [Sum of Digits](./src/codewars/6-kyu-sum-of-digits.js)
   13. [Persistent Bugger](./src/codewars/6-kyu-persistent-bugger.js)
-
+  14. [Stop gninnipS My sdroW!](./src/codewars/6-kyu-stop-spinning.js)
+  15. [Image Host Filename Generator](./src/codewars/6-kyu-filename-generator.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
