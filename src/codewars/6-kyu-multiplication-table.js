@@ -23,6 +23,4 @@ multiplicationTable = function(size) {
     
     return table;
 };
-
-console.dir(multiplicationTable(10))
   
