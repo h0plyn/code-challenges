@@ -14,6 +14,9 @@
   7. [Mexican Wave](./src/codewars/6-kyu-mexican-wave.js)
   8. [Multiplication Table](./src/codewars/6-kyu-multiplication-table.js)
   9. [Find The Odd Integer](./src/codewars/6-kyu-find-odd-int.js)
+  <!-- 10. [Take a Ten Minute Walk](./src/codewars/6-kyu-take-a-walk.js) -->
+  11. [Multiples of Three and Five](./src/codewars/6-kyu-multiples-3-5.js)
+  11. [Sum of Digits](./src/codewars/6-kyu-sum-of-digits.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
