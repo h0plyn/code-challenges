@@ -4,6 +4,7 @@
 - 5 kyu
   1. [Rot13](./src/codewars/5-kyu-rot13.js)
   2. [Simple Pig Latin](./src/codewars/5-kyu-simple-pig-latin.js)
+  3. [Josephus Permutation](./src/codewars/5-kyu-josephus-permutation.js)
 - 6 kyu
   1. [IQ Test](./src/codewars/6-kyu-iq-test.js)
   2. [Who Likes It](./src/codewars/kyu6-who-likes-it.js)
@@ -22,6 +23,7 @@
   15. [Image Host Filename Generator](./src/codewars/6-kyu-filename-generator.js)
   16. [Highest Rank Number in an Array](./src/codewars/6-kyu-highest-rank.js)
   17. [Find The Parity Outlier](./src/codewars/6-kyu-parity-outlier.js)
+  18. [Highest Rank Number in an Array](./src/codewars/6-kyu-highest-rank.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
