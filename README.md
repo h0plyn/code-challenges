@@ -1,7 +1,7 @@
 # Code Challenges
 
 #### Code Wars
-[![Kyu Status(https://www.codewars.com/users/h0plyn/badges/micro)]](https://www.codewars.com/users/h0plyn/badges/micro)
+![Kyu Status](https://www.codewars.com/users/h0plyn/badges/micro)
 - 5 kyu
   1. [Rot13](./src/codewars/5-kyu-rot13.js)
   2. [Simple Pig Latin](./src/codewars/5-kyu-simple-pig-latin.js)
