@@ -25,6 +25,7 @@
   17. [Find The Parity Outlier](./src/codewars/6-kyu-parity-outlier.js)
   18. [Highest Rank Number in an Array](./src/codewars/6-kyu-highest-rank.js)
   19. [Decode The Morse Code](./src/codewars/6-kyu-morse-code.js)
+  20. [Counting Duplicates](./src/codewars/6-kyu-counting-duplicates.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
