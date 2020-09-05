@@ -7,5 +7,3 @@ function duplicateEncode(word) {
         })
         .join('')
 }
-
-console.log(duplicateEncode("Success"))

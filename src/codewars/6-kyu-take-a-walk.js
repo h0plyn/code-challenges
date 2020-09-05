@@ -33,5 +33,5 @@ function isValidWalk(walk) {
         }
      })
 
-     return route[0] === 0 && route[1] === 0 ? true : false;
+    return route[0] === 0 && route[1] === 0 ? true : false;
 }
