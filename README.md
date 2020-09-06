@@ -32,6 +32,7 @@
   <!-- 23. [Array.diff](./src/codewars/6-kyu-array-diff.js) -->
   24. [Consecutive strings](./src/codewars/6-kyu-consecutive-strings.js)
   25. [Simple Fun #265: The Janitor And His Mop](./src/codewars/6-kyu-janitor-mop.js)
+  <!-- 26.[Replace Noun Phrases With Pronouns](./src/codewars/6-kyu-replace-noun-phrases.js) -->
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
@@ -43,6 +44,7 @@
   8. [Get the Middle Character](./src/codewars/7-kyu-get-middle-char.js)
   9. [Square Every Digit](./src/codewars/7-kyu-sq-every-digit.js)
   10. [Highest and Lowest](./src/codewars/7-kyu-highest-lowest.js)
+  11. [Mumbling](./src/codewars/7-kyu-mumbling.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
