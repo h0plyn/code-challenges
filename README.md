@@ -45,6 +45,7 @@
   9. [Square Every Digit](./src/codewars/7-kyu-sq-every-digit.js)
   10. [Highest and Lowest](./src/codewars/7-kyu-highest-lowest.js)
   11. [Mumbling](./src/codewars/7-kyu-mumbling.js)
+  12. [Disemvowel Trolls](./src/codewars/7-kyu-disemvowel-trolls.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
