@@ -18,4 +18,3 @@ function countingValleys(numOfSteps, directionStr) {
     return valleyCount;
 }
 
-console.log(countingValleys(8, 'UDDDUDUU'))
