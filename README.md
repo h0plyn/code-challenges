@@ -51,7 +51,8 @@
   15. [Make a Function That Does Arithmetic!](./src/codewars/7-kyu-arithmetic-function.js)
   16. [List Filtering](./src/codewars/7-kyu-list-filtering.js)
   17. [Sum of a Sequence](./src/codewars/7-kyu-sum-of-sequence.js)
-  18. [Vowel Count](./src/codewars/7-vowel-count.js)
+  18. [Vowel Count](./src/codewars/7-kyu-vowel-count.js)
+  19. [Word Values](./src/codewars/7-kyu-word-values.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
