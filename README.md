@@ -56,6 +56,7 @@
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
+  3. [Find The Smallest Integer In The Array](./src/codewars/8-kyu-smallest-value.js)
 
 #### Hack Reactor
 1. [transformEmployeeData](./src/hackreactor/transformEmployeeData.js)
