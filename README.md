@@ -33,6 +33,7 @@
   24. [Consecutive strings](./src/codewars/6-kyu-consecutive-strings.js)
   25. [Simple Fun #265: The Janitor And His Mop](./src/codewars/6-kyu-janitor-mop.js)
   <!-- 26.[Replace Noun Phrases With Pronouns](./src/codewars/6-kyu-replace-noun-phrases.js) -->
+  27. [Replace With Alphabet Position](./src/codewars/6-kyu-alphabet-position.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
