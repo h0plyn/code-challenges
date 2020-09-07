@@ -29,7 +29,7 @@
   20. [Counting Duplicates](./src/codewars/6-kyu-counting-duplicates.js)
   <!-- 21. [Extract The IDs from the Data Set](./src/codewars/6-kyu-extract-ids.js) -->
   22. [Duplicate Encoder](./src/codewars/6-kyu-duplicate-encoder.js)
-  <!-- 23. [Array.diff](./src/codewars/6-kyu-array-diff.js) -->
+  23. [Array.diff](./src/codewars/6-kyu-array-diff.js)
   24. [Consecutive strings](./src/codewars/6-kyu-consecutive-strings.js)
   25. [Simple Fun #265: The Janitor And His Mop](./src/codewars/6-kyu-janitor-mop.js)
   <!-- 26.[Replace Noun Phrases With Pronouns](./src/codewars/6-kyu-replace-noun-phrases.js) -->
