@@ -54,6 +54,7 @@
   17. [Sum of a Sequence](./src/codewars/7-kyu-sum-of-sequence.js)
   18. [Vowel Count](./src/codewars/7-kyu-vowel-count.js)
   19. [Word Values](./src/codewars/7-kyu-word-values.js)
+  20. [Simple Fibonacci Strings](./src/codewars/7-kyu-fibonacci-strings.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
