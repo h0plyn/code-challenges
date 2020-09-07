@@ -46,6 +46,7 @@
   10. [Highest and Lowest](./src/codewars/7-kyu-highest-lowest.js)
   11. [Mumbling](./src/codewars/7-kyu-mumbling.js)
   12. [Disemvowel Trolls](./src/codewars/7-kyu-disemvowel-trolls.js)
+  13. [Split By Value](./src/codewars/7-kyu-split-by-value.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
@@ -94,7 +95,7 @@
 
 #### Hacker Rank
   1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
-  2. [Sock Merchant](./src/hackerrank/sock-merchant.js)
+  2. [Sock Merchant](./src/hackerrank/sockMerchant.js)
   3. [Counting Valleys](.src/hackerrank/countingValleys.js)
 
 #### Personal
