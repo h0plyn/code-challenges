@@ -8,10 +8,10 @@ function countingValleys(numOfSteps, directionStr) {
         if (currentDirection === 'U') {
              sealevel++ 
              if (sealevel === 0) {
-                 valleyCount++
+                 valleyCount++;
              }
         } else {
-            sealevel--
+            sealevel--;
         }
     }
 
