@@ -47,6 +47,7 @@
   11. [Mumbling](./src/codewars/7-kyu-mumbling.js)
   12. [Disemvowel Trolls](./src/codewars/7-kyu-disemvowel-trolls.js)
   13. [Split By Value](./src/codewars/7-kyu-split-by-value.js)
+  14. [Ironman Triathlon](./src/codewars/7-kyu-ironman-triathlon.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)

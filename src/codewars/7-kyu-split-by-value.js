@@ -4,5 +4,5 @@
 // all elements that are not less than k remain in the same order with respect to each other.
 
 function splitByValue(k, elements) {
-    return elements.filter(el => el < k).concat(elements.filter(el => el >= k))
+    return elements.filter(el => el < k).concat(elements.filter(el => el >= k));
 }
