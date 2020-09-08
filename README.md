@@ -111,4 +111,5 @@
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)
+  2. [Clock Angle Problem](./src/personal/clockAngleProblem.js)
    
