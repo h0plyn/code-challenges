@@ -35,6 +35,7 @@
   <!-- 26.[Replace Noun Phrases With Pronouns](./src/codewars/6-kyu-replace-noun-phrases.js) -->
   27. [Replace With Alphabet Position](./src/codewars/6-kyu-alphabet-position.js)
   28. [Your Order, Please.](./src/codewars/6-kyu-your-order.js)
+  29. [Convert String To Camel Case](./src/codewars/6-kyu-convert-to-camel-case.js)
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
