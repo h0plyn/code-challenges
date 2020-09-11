@@ -6,6 +6,7 @@
   1. [Rot13](./src/codewars/5-kyu-rot13.js)
   2. [Simple Pig Latin](./src/codewars/5-kyu-simple-pig-latin.js)
   3. [Josephus Permutation](./src/codewars/5-kyu-josephus-permutation.js)
+  4. [Moving Zeros To The End](./src/codewars/5-kyu-moving-zeros.js)
 - 6 kyu
   1. [IQ Test](./src/codewars/6-kyu-iq-test.js)
   2. [Who Likes It](./src/codewars/kyu6-who-likes-it.js)
@@ -52,7 +53,7 @@
   13. [Split By Value](./src/codewars/7-kyu-split-by-value.js)
   14. [Ironman Triathlon](./src/codewars/7-kyu-ironman-triathlon.js)
   15. [Make a Function That Does Arithmetic!](./src/codewars/7-kyu-arithmetic-function.js)
-  16. [List Filtering](./src/codewars/7-kyu-list-filtering.js)
+  16. [List Filtering](./src/codewars/7-kyu-list-filtering.js)  
   17. [Sum of a Sequence](./src/codewars/7-kyu-sum-of-sequence.js)
   18. [Vowel Count](./src/codewars/7-kyu-vowel-count.js)
   19. [Word Values](./src/codewars/7-kyu-word-values.js)
