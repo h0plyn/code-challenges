@@ -2,15 +2,9 @@
 
 function mergeArrays(a, b) {
     let merged = [];
-    let longest = 0;
-    
-    if (a.length > b.length) {
-        longest = a.length;
-    } else {
-        longest = b.length;
-    }
+    let longest = a.length > b.length ? a : b;
 
-    for (let i = 0; i < longest; i++) {
+    for (let i = 0; i < longest.length; i++) {
         if (a.length > i) {
             merged.push(a[i]);
         }
