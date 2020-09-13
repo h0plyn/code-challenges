@@ -61,6 +61,8 @@
   21. [Shortest String](./src/codewars/7-kyu-shortest-string.js)
   22. [Descending Order](./src/codewars/7-kyu-descending-order.js)
   23. [Isograms](./src/codewars/7-kyu-isograms.js)
+  <!-- 24. [Format With](./src/codewars/7-kyu-format-with.js) -->
+  25. [Merge Two Arrays](./src/codewars/7-kyu-merge-two-arrays.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
