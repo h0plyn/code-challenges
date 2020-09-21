@@ -67,6 +67,7 @@
   26. [Hungarian Vowel Harmony](./src/codewars/7-kyu-hungarian-vowel-harmony.js)
   27. [Consecutive Pairs](./src/codewars/7-kyu-consecutive-pairs.js)
   28. [Sum of Two Lowest Positive Integers](./src/codewars/7-kyu-lowest-positive-integers.js)
+  29. [Refactored Greeting](./src/codewars/7-kyu-refactored-greeting.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
