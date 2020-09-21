@@ -38,6 +38,8 @@
   28. [Your Order, Please.](./src/codewars/6-kyu-your-order.js)
   29. [Convert String To Camel Case](./src/codewars/6-kyu-convert-to-camel-case.js)
   30. [Count Characters In Your String](./src/codewars/6-kyu-count-characters.js)
+  31. [Filling An Array (Part 2)](./src/codewars/8-kyu-filling-an-array-pt-2.js)
+
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
@@ -72,7 +74,7 @@
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
   3. [Find The Smallest Integer In The Array](./src/codewars/8-kyu-smallest-value.js)
-  4. [Filling An Array](./src/codewars/8-kyu-filling-an-array.js)
+  4. [Filling An Array (Part 1)](./src/codewars/8-kyu-filling-an-array.js)
 
 #### Hack Reactor
 1. [transformEmployeeData](./src/hackreactor/transformEmployeeData.js)
