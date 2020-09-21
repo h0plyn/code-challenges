@@ -5,4 +5,3 @@ const persistence = (num) => {
     let digitArr = num.toString().split('').reduce((a, b) => parseInt(a) * parseInt(b));
     return num < 10 ? 0 : persistence(digitArr) + 1;
 };
-

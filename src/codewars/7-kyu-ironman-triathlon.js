@@ -12,5 +12,3 @@ function iTri(s){
     if (s >= total) return `You're done! Stop running!`;
     
 }
-
-console.log(iTri(113))

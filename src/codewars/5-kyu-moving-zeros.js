@@ -7,4 +7,3 @@ var moveZeros = function (arr) {
 
     return newArr.concat(zeroArr); 
 }
-
