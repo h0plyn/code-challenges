@@ -7,6 +7,7 @@
   2. [Simple Pig Latin](./src/codewars/5-kyu-simple-pig-latin.js)
   3. [Josephus Permutation](./src/codewars/5-kyu-josephus-permutation.js)
   4. [Moving Zeros To The End](./src/codewars/5-kyu-moving-zeros.js)
+  5. [Extract The Domain Name From a URL](./src/codewars/5-kyu-extract-domain.js)
 - 6 kyu
   1. [IQ Test](./src/codewars/6-kyu-iq-test.js)
   2. [Who Likes It](./src/codewars/kyu6-who-likes-it.js)
