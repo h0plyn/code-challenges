@@ -97,6 +97,7 @@
   1. [twoSum](./src/leetcode/twoSum.js)
   7. [Reverse Integer](./src/leetcode/reverseInteger.js)
   9. [Palindrome Number](./src/leetcode/palindromeNumber.js)
+  13. [Roman to Integer](./src/leetcode/romanToInteger.js)
   
 #### Codecademy
   1. [Credit Card Checker](https://github.com/h0plyn/credit-card-checker/blob/master/main.js)
