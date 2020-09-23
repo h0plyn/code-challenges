@@ -125,7 +125,8 @@
 #### Hacker Rank
   1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
   2. [Sock Merchant](./src/hackerrank/sockMerchant.js)
-  3. [Counting Valleys](.src/hackerrank/countingValleys.js)
+  3. [Counting Valleys](./src/hackerrank/countingValleys.js)
+  5. [Day 2: Operators](./src/hackerrank/operators.js)
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)
