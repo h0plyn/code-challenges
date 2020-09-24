@@ -127,6 +127,7 @@
   2. [Sock Merchant](./src/hackerrank/sockMerchant.js)
   3. [Counting Valleys](./src/hackerrank/countingValleys.js)
   5. [Day 2: Operators](./src/hackerrank/operators.js)
+  6. [Day 3: Conditionals](./src/hackerrank/conditionals.js)
 
 #### Personal
   1. [Simple String Reverse](./src/personal/reverseString.js)
