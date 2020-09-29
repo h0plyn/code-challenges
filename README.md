@@ -121,6 +121,7 @@
   16. [Recursion: Length of a String](.src/edabit/length-of-string.js)
   17. [Recursion: Find the Index(Part #2)](./src/edabit/find-the-index.js)
   18. [FizzBuzz](./src/codewars/fizz-buzz.js)
+  19. [Boom!](./src/edabit/boom.js)
 
 #### Hacker Rank
   1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
