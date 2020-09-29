@@ -122,6 +122,7 @@
   17. [Recursion: Find the Index(Part #2)](./src/edabit/find-the-index.js)
   18. [FizzBuzz](./src/codewars/fizz-buzz.js)
   19. [Boom!](./src/edabit/boom.js)
+  20. [How Much is True?](./src/edabit/howMuchTrue.js)
 
 #### Hacker Rank
   1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
