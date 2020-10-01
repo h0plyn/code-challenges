@@ -123,6 +123,7 @@
   18. [FizzBuzz](./src/codewars/fizz-buzz.js)
   19. [Boom!](./src/edabit/boom.js)
   20. [How Much is True?](./src/edabit/howMuchTrue.js)
+  21. [Convert Objecys to Arrays](./src/edabit/objectToArrays.js)
 
 #### Hacker Rank
   1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
