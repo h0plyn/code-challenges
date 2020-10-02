@@ -125,6 +125,7 @@
   20. [How Much is True?](./src/edabit/howMuchTrue.js)
   21. [Convert Objecys to Arrays](./src/edabit/objectToArrays.js)
   22. [Oddish or Evenish](./src/edabit/oddishOrEvenish.js)
+  23. [Calculate the Total Price of Groceries](./src/edabit/totalPriceGroceries.js)
 
 #### Hacker Rank
   1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
