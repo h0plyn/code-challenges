@@ -126,6 +126,7 @@
   21. [Convert Objecys to Arrays](./src/edabit/objectToArrays.js)
   22. [Oddish or Evenish](./src/edabit/oddishOrEvenish.js)
   23. [Calculate the Total Price of Groceries](./src/edabit/totalPriceGroceries.js)
+  24. [All Numbers in Array Are Prime](./src/edabit/allArrPrime.js)
 
 #### Hacker Rank
   1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
