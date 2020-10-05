@@ -41,6 +41,7 @@
   30. [Count Characters In Your String](./src/codewars/6-kyu-count-characters.js)
   31. [Filling An Array (Part 2)](./src/codewars/6-kyu-filling-an-array-pt-2.js)
   32. [Unique In Order](./src/codewars/6-kyu-unique-in-order.js)
+  33. [Sum Two Arrays](./src/codewars/6-kyu-sum-two-arrays.js)
 
 - 7 kyu 
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
@@ -128,6 +129,7 @@
   23. [Calculate the Total Price of Groceries](./src/edabit/totalPriceGroceries.js)
   24. [All Numbers in Array Are Prime](./src/edabit/allArrPrime.js)
   25. [Numbers in Strings](./src/edabit/numbersInStrings.js)
+
 
 #### Hacker Rank
   1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
