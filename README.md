@@ -1,14 +1,19 @@
 # Code Challenges
 
 #### Code Wars
+
 ![Kyu Status](https://www.codewars.com/users/h0plyn/badges/micro)
+
 - 5 kyu
+
   1. [Rot13](./src/codewars/5-kyu-rot13.js)
   2. [Simple Pig Latin](./src/codewars/5-kyu-simple-pig-latin.js)
   3. [Josephus Permutation](./src/codewars/5-kyu-josephus-permutation.js)
   4. [Moving Zeros To The End](./src/codewars/5-kyu-moving-zeros.js)
   5. [Extract The Domain Name From a URL](./src/codewars/5-kyu-extract-domain.js)
+
 - 6 kyu
+
   1. [IQ Test](./src/codewars/6-kyu-iq-test.js)
   2. [Who Likes It](./src/codewars/kyu6-who-likes-it.js)
   3. [Create Phone Numbers](./src/codewars/6-kyu-create-phone-numbers.js)
@@ -35,15 +40,16 @@
   24. [Consecutive strings](./src/codewars/6-kyu-consecutive-strings.js)
   25. [Simple Fun #265: The Janitor And His Mop](./src/codewars/6-kyu-janitor-mop.js)
   <!-- 26.[Replace Noun Phrases With Pronouns](./src/codewars/6-kyu-replace-noun-phrases.js) -->
-  27. [Replace With Alphabet Position](./src/codewars/6-kyu-alphabet-position.js)
-  28. [Your Order, Please.](./src/codewars/6-kyu-your-order.js)
-  29. [Convert String To Camel Case](./src/codewars/6-kyu-convert-to-camel-case.js)
-  30. [Count Characters In Your String](./src/codewars/6-kyu-count-characters.js)
-  31. [Filling An Array (Part 2)](./src/codewars/6-kyu-filling-an-array-pt-2.js)
-  32. [Unique In Order](./src/codewars/6-kyu-unique-in-order.js)
-  33. [Sum Two Arrays](./src/codewars/6-kyu-sum-two-arrays.js)
+  26. [Replace With Alphabet Position](./src/codewars/6-kyu-alphabet-position.js)
+  27. [Your Order, Please.](./src/codewars/6-kyu-your-order.js)
+  28. [Convert String To Camel Case](./src/codewars/6-kyu-convert-to-camel-case.js)
+  29. [Count Characters In Your String](./src/codewars/6-kyu-count-characters.js)
+  30. [Filling An Array (Part 2)](./src/codewars/6-kyu-filling-an-array-pt-2.js)
+  31. [Unique In Order](./src/codewars/6-kyu-unique-in-order.js)
+  32. [Sum Two Arrays](./src/codewars/6-kyu-sum-two-arrays.js)
+  33. [Sort The Odd](./src/codewars/6-kyu-sort-the-odd.js)
 
-- 7 kyu 
+- 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
   2. [How many times should I go?](./src/codewars/7-kyu-how-many-times.js)
   3. [Sum of two lowest positive integers](./src/codewars/7-kyu-sum-of-two-lowest.js)
@@ -59,7 +65,7 @@
   13. [Split By Value](./src/codewars/7-kyu-split-by-value.js)
   14. [Ironman Triathlon](./src/codewars/7-kyu-ironman-triathlon.js)
   15. [Make a Function That Does Arithmetic!](./src/codewars/7-kyu-arithmetic-function.js)
-  16. [List Filtering](./src/codewars/7-kyu-list-filtering.js)  
+  16. [List Filtering](./src/codewars/7-kyu-list-filtering.js)
   17. [Sum of a Sequence](./src/codewars/7-kyu-sum-of-sequence.js)
   18. [Vowel Count](./src/codewars/7-kyu-vowel-count.js)
   19. [Word Values](./src/codewars/7-kyu-word-values.js)
@@ -81,6 +87,7 @@
   4. [Filling An Array (Part 1)](./src/codewars/8-kyu-filling-an-array.js)
 
 #### Hack Reactor
+
 1. [transformEmployeeData](./src/hackreactor/transformEmployeeData.js)
 2. [Split Pairs](./src/hackreactor/splitPairs.js)
 3. [detectNetwork](./src/hackreactor/detectNetwork.js)
@@ -95,50 +102,53 @@
 12. [findPairForSum](./src/hackreactor/findPairForSum.js)
 
 #### Leetcode
-  1. [twoSum](./src/leetcode/twoSum.js)
-  7. [Reverse Integer](./src/leetcode/reverseInteger.js)
-  9. [Palindrome Number](./src/leetcode/palindromeNumber.js)
-  13. [Roman to Integer](./src/leetcode/romanToInteger.js)
-  
+
+1. [twoSum](./src/leetcode/twoSum.js)
+2. [Reverse Integer](./src/leetcode/reverseInteger.js)
+3. [Palindrome Number](./src/leetcode/palindromeNumber.js)
+4. [Roman to Integer](./src/leetcode/romanToInteger.js)
+
 #### Codecademy
-  1. [Credit Card Checker](https://github.com/h0plyn/credit-card-checker/blob/master/main.js)
+
+1. [Credit Card Checker](https://github.com/h0plyn/credit-card-checker/blob/master/main.js)
 
 #### Edabit
-  1. [and](./src/edabit/and.js)
-  2. [checkAllEven](./src/edabit/checkAllEven.js)
-  3. [countTrue](./src/edabit/countTrue.js)
-  4. [findBob](./src/edabit/findBob.js)
-  5. [monthName](./src/edabit/monthName.js)
-  6. [triArea](./src/edabit/triArea.js)
-  7. [capToFront](./src/edabit/capToFront.js)
-  8. [yenToUsd](./src/edabit/yenToUsd.js)
-  9. [lessThanOrEqualToZero](./src/edabit/lessThanOrEqualToZero.js)
-  10. [countWords](./src/edabit/countWords.js)
-  11. [findLargestNum](./src/edabit/findLargestNum.js)
-  12. [A Redundant Function](./src/edabit/redundant.js)
-  13. [Eliminate Odd Numbers within an Array](./src/edabit/noOdds.js)
-  14. [Count Instances of a Character in a String](./src/edabit/countChar.js)
-  15. [Find The Bomb](./src/edabit/findTheBomb.js)
-  16. [Recursion: Length of a String](.src/edabit/length-of-string.js)
-  17. [Recursion: Find the Index(Part #2)](./src/edabit/find-the-index.js)
-  18. [FizzBuzz](./src/codewars/fizz-buzz.js)
-  19. [Boom!](./src/edabit/boom.js)
-  20. [How Much is True?](./src/edabit/howMuchTrue.js)
-  21. [Convert Objecys to Arrays](./src/edabit/objectToArrays.js)
-  22. [Oddish or Evenish](./src/edabit/oddishOrEvenish.js)
-  23. [Calculate the Total Price of Groceries](./src/edabit/totalPriceGroceries.js)
-  24. [All Numbers in Array Are Prime](./src/edabit/allArrPrime.js)
-  25. [Numbers in Strings](./src/edabit/numbersInStrings.js)
 
+1. [and](./src/edabit/and.js)
+2. [checkAllEven](./src/edabit/checkAllEven.js)
+3. [countTrue](./src/edabit/countTrue.js)
+4. [findBob](./src/edabit/findBob.js)
+5. [monthName](./src/edabit/monthName.js)
+6. [triArea](./src/edabit/triArea.js)
+7. [capToFront](./src/edabit/capToFront.js)
+8. [yenToUsd](./src/edabit/yenToUsd.js)
+9. [lessThanOrEqualToZero](./src/edabit/lessThanOrEqualToZero.js)
+10. [countWords](./src/edabit/countWords.js)
+11. [findLargestNum](./src/edabit/findLargestNum.js)
+12. [A Redundant Function](./src/edabit/redundant.js)
+13. [Eliminate Odd Numbers within an Array](./src/edabit/noOdds.js)
+14. [Count Instances of a Character in a String](./src/edabit/countChar.js)
+15. [Find The Bomb](./src/edabit/findTheBomb.js)
+16. [Recursion: Length of a String](.src/edabit/length-of-string.js)
+17. [Recursion: Find the Index(Part #2)](./src/edabit/find-the-index.js)
+18. [FizzBuzz](./src/codewars/fizz-buzz.js)
+19. [Boom!](./src/edabit/boom.js)
+20. [How Much is True?](./src/edabit/howMuchTrue.js)
+21. [Convert Objecys to Arrays](./src/edabit/objectToArrays.js)
+22. [Oddish or Evenish](./src/edabit/oddishOrEvenish.js)
+23. [Calculate the Total Price of Groceries](./src/edabit/totalPriceGroceries.js)
+24. [All Numbers in Array Are Prime](./src/edabit/allArrPrime.js)
+25. [Numbers in Strings](./src/edabit/numbersInStrings.js)
 
 #### Hacker Rank
-  1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
-  2. [Sock Merchant](./src/hackerrank/sockMerchant.js)
-  3. [Counting Valleys](./src/hackerrank/countingValleys.js)
-  5. [Day 2: Operators](./src/hackerrank/operators.js)
-  6. [Day 3: Conditionals](./src/hackerrank/conditionals.js)
+
+1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
+2. [Sock Merchant](./src/hackerrank/sockMerchant.js)
+3. [Counting Valleys](./src/hackerrank/countingValleys.js)
+4. [Day 2: Operators](./src/hackerrank/operators.js)
+5. [Day 3: Conditionals](./src/hackerrank/conditionals.js)
 
 #### Personal
-  1. [Simple String Reverse](./src/personal/reverseString.js)
-  2. [Clock Angle Problem](./src/personal/clockAngleProblem.js)
-   
+
+1. [Simple String Reverse](./src/personal/reverseString.js)
+2. [Clock Angle Problem](./src/personal/clockAngleProblem.js)
