@@ -48,6 +48,7 @@
   31. [Unique In Order](./src/codewars/6-kyu-unique-in-order.js)
   32. [Sum Two Arrays](./src/codewars/6-kyu-sum-two-arrays.js)
   33. [Sort The Odd](./src/codewars/6-kyu-sort-the-odd.js)
+  34. [Dashatize](./src/codewars/6-kyu-dashatize-it.js)
 
 - 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
