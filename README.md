@@ -140,6 +140,7 @@
 23. [Calculate the Total Price of Groceries](./src/edabit/totalPriceGroceries.js)
 24. [All Numbers in Array Are Prime](./src/edabit/allArrPrime.js)
 25. [Numbers in Strings](./src/edabit/numbersInStrings.js)
+26. [Length of a Nested Array](./src/edabit/lengthOfNestedArr.js)
 
 #### Hacker Rank
 
