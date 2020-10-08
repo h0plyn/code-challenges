@@ -4,12 +4,10 @@
 
 function numInStr(arr) {
     let numStrArr = [];
-    
     arr.forEach(el => {
         if (el.match(/[0-9]/g)) {
             numStrArr.push(el);
         }
     })
-
 	return numStrArr;
 }
