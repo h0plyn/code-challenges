@@ -81,7 +81,8 @@
   28. [Sum of Two Lowest Positive Integers](./src/codewars/7-kyu-lowest-positive-integers.js)
   29. [Refactored Greeting](./src/codewars/7-kyu-refactored-greeting.js)
   30. [Coloured Triangles](./src/codewars/7-kyu-colored-triangles.js)
-  31. [Factory Functions #1-Creating Profile for People](./src/codewars/7-kyu-factory-function-people.js)
+  31. [Factory Functions #1 - Creating Profile for People](./src/codewars/7-kyu-factory-function-people.js)
+  32. [Factory Functions #2 - Inheritance and Object Composition](./src/codewars/7-kyu-factory-inheritance.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
