@@ -145,7 +145,8 @@
 24. [All Numbers in Array Are Prime](./src/edabit/allArrPrime.js)
 25. [Numbers in Strings](./src/edabit/numbersInStrings.js)
 26. [Length of a Nested Array](./src/edabit/lengthOfNestedArr.js)
-
+27. [Array of Multiples](./src/edabit/arrOfMultiples.js)
+28. [Filter Out String of an Array](./src/edabit/filterOutStrings.js)
 #### Hacker Rank
 
 1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
