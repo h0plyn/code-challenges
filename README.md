@@ -147,6 +147,8 @@
 26. [Length of a Nested Array](./src/edabit/lengthOfNestedArr.js)
 27. [Array of Multiples](./src/edabit/arrOfMultiples.js)
 28. [Filter Out String of an Array](./src/edabit/filterOutStrings.js)
+29. [Zip It](./src/edabit/zipIt.js)
+
 #### Hacker Rank
 
 1. [Compare The Triplets](./src/hackerrank/compareTheTriplets.js)
