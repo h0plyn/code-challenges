@@ -148,6 +148,7 @@
 27. [Array of Multiples](./src/edabit/arrOfMultiples.js)
 28. [Filter Out String of an Array](./src/edabit/filterOutStrings.js)
 29. [Zip It](./src/edabit/zipIt.js)
+30. [Return the Object Keys and Values](./src/edabit/objectKeysValuesArr.js)
 
 #### Hacker Rank
 
