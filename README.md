@@ -87,6 +87,7 @@
   33. [First-Class Factory Functions](./src/codewars/7-kyu-first-class-factory-functions.js)
   34. [Factory Functions #3 - Immutable Object](./src/codewars/7-kyu-factory-functions-3.js)
   35. [Fix My Method](./src/codewars/7-kyu-fix-my-method.js)
+  36. [You Can't Code Under Pressure #2](./src/codewars/7-kyu-you-cant-code.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
