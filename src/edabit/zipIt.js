@@ -31,3 +31,16 @@ function zipIt(women, men) {
 
   return pairs;
 }
+
+const addMessage = (message) => {
+  return message;
+};
+
+const today = (callback) => {
+  const todaysDateObj = new Date();
+  const message = callback("Today is");
+  console.log(todaysDateObj);
+  return `${message} ${todaysDateObj.toDateString()}`;
+};
+
+console.log(today(addMessage));

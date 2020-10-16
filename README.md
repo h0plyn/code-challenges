@@ -49,6 +49,7 @@
   32. [Sum Two Arrays](./src/codewars/6-kyu-sum-two-arrays.js)
   33. [Sort The Odd](./src/codewars/6-kyu-sort-the-odd.js)
   34. [Dashatize](./src/codewars/6-kyu-dashatize-it.js)
+  35. [Find Within An Array](./src/codewars/findWithinAnArray.js)
 
 - 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
@@ -150,6 +151,8 @@
 28. [Filter Out String of an Array](./src/edabit/filterOutStrings.js)
 29. [Zip It](./src/edabit/zipIt.js)
 30. [Return the Object Keys and Values](./src/edabit/objectKeysValuesArr.js)
+31. [Arrow Functions](./src/edabit/arrowFunctions.js)
+32. [Accumulating Array](./src/edabit/accumulatingArray.js)
 
 #### Hacker Rank
 
