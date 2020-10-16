@@ -49,7 +49,8 @@
   32. [Sum Two Arrays](./src/codewars/6-kyu-sum-two-arrays.js)
   33. [Sort The Odd](./src/codewars/6-kyu-sort-the-odd.js)
   34. [Dashatize](./src/codewars/6-kyu-dashatize-it.js)
-  35. [Find Within An Array](./src/codewars/findWithinAnArray.js)
+  35. [Find Within An Array](./src/codewars/6-kyu-find-within-array.js)
+  36. [Running Average](./src/codewars/6-kyu-running-average)
 
 - 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
