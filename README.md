@@ -92,6 +92,7 @@
   37. [Understanding Closures - The Basics](./src/codewars/7-kyu-closures.js)
   38. [Lazily Executing a Function](./src/codewars/7-kyu-lazily-execute.js)
   39. [JavaScript Mathematician](./src/codewars/7-kyu-mathematician.js)
+  40. [AOP - Before](./src/codewars/7-kyu-AOP-before.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
