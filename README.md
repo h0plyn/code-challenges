@@ -90,6 +90,7 @@
   35. [Fix My Method](./src/codewars/7-kyu-fix-my-method.js)
   36. [You Can't Code Under Pressure #2](./src/codewars/7-kyu-you-cant-code.js)
   37. [Understanding Closures - The Basics](./src/codewars/7-kyu-closures.js)
+  38. [Lazily Executing a Function](./src/codewars/7-kyu-lazily-execute.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
