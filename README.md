@@ -51,6 +51,7 @@
   34. [Dashatize](./src/codewars/6-kyu-dashatize-it.js)
   35. [Find Within An Array](./src/codewars/6-kyu-find-within-array.js)
   36. [Running Average](./src/codewars/6-kyu-running-average)
+  37. [Closures: Sum Function](./src/codewars/6-kyu-sum-function.js)
 
 - 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
@@ -159,6 +160,7 @@
 30. [Return the Object Keys and Values](./src/edabit/objectKeysValuesArr.js)
 31. [Arrow Functions](./src/edabit/arrowFunctions.js)
 32. [Accumulating Array](./src/edabit/accumulatingArray.js)
+33. [Fix The Error: Array Reduce](./src/edabit/arrayReduce.js)
 
 #### Hacker Rank
 
