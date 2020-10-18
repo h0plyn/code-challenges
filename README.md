@@ -52,6 +52,7 @@
   35. [Find Within An Array](./src/codewars/6-kyu-find-within-array.js)
   36. [Running Average](./src/codewars/6-kyu-running-average)
   37. [Closures: Sum Function](./src/codewars/6-kyu-sum-function.js)
+  38. [Continents Represented](./src/codewars/6-kyu-continents-represented.js)
 
 - 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
