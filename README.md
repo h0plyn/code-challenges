@@ -166,6 +166,7 @@
 32. [Accumulating Array](./src/edabit/accumulatingArray.js)
 33. [Fix The Error: Array Reduce](./src/edabit/arrayReduce.js)
 34. [Calculate Voltage](./src/edabit/voltageCalc.js)
+35. [Functional Double String](./src/edabit/doubleString.js)
 
 #### Hacker Rank
 
