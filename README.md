@@ -182,3 +182,4 @@
 2. [Clock Angle Problem](./src/personal/clockAngleProblem.js)
 3. [Functional Programming Practice](./src/personal/functionalPractice.js)
 4. [Three](./src/personal/three.js)
+5. [Closures Example](./src/personal/closuresExample.js)
