@@ -96,6 +96,7 @@
   39. [JavaScript Mathematician](./src/codewars/7-kyu-mathematician.js)
   40. [AOP - Before](./src/codewars/7-kyu-AOP-before.js)
   41. [Flatten and Sort an Array](./src/codewars/7-kyu-flatten-and-sort.js)
+  42. [Number to Digit Tiers](./src/codewars.7-kyu-number-to-digit.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
@@ -164,6 +165,7 @@
 31. [Arrow Functions](./src/edabit/arrowFunctions.js)
 32. [Accumulating Array](./src/edabit/accumulatingArray.js)
 33. [Fix The Error: Array Reduce](./src/edabit/arrayReduce.js)
+34. [Calculate Voltage](./src/edabit/voltageCalc.js)
 
 #### Hacker Rank
 
