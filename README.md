@@ -167,6 +167,7 @@
 33. [Fix The Error: Array Reduce](./src/edabit/arrayReduce.js)
 34. [Calculate Voltage](./src/edabit/voltageCalc.js)
 35. [Functional Double String](./src/edabit/doubleString.js)
+36. [Calculate Age in Days](./src/edabit/ageInDays.js)
 
 #### Hacker Rank
 
