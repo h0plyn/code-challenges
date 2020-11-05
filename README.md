@@ -170,6 +170,7 @@
 35. [Functional Double String](./src/edabit/doubleString.js)
 36. [Calculate Age in Days](./src/edabit/ageInDays.js)
 37. [RegEx XV : Group Ranges - Negated Character Sets](./src/edabit/regexMatch.js)
+38. [Temperature Converter](./src/edabit/tempConverter.js)
 
 #### Hacker Rank
 
