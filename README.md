@@ -53,6 +53,7 @@
   36. [Running Average](./src/codewars/6-kyu-running-average)
   37. [Closures: Sum Function](./src/codewars/6-kyu-sum-function.js)
   38. [Continents Represented](./src/codewars/6-kyu-continents-represented.js)
+  39. [N-th Fibonacci](./src/codewars/6-kyu-nFib.js)
 
 - 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
