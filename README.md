@@ -54,6 +54,7 @@
   37. [Closures: Sum Function](./src/codewars/6-kyu-sum-function.js)
   38. [Continents Represented](./src/codewars/6-kyu-continents-represented.js)
   39. [N-th Fibonacci](./src/codewars/6-kyu-nFib.js)
+  40. [Find The Unique Number](./src/codewars/6-kyu-find-unique.js)
 
 - 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
@@ -187,3 +188,4 @@
 3. [Functional Programming Practice](./src/personal/functionalPractice.js)
 4. [Three](./src/personal/three.js)
 5. [Closures Example](./src/personal/closuresExample.js)
+6. [iLoop](./src/personal/iLoop.js)
