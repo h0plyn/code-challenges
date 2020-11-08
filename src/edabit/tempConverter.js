@@ -16,4 +16,4 @@ function convert(deg) {
   }
 }
 
-console.log(convert("32°C")); // 90°F
+convert("32°C"); // 90°F

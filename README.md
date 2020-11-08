@@ -98,12 +98,13 @@
   39. [JavaScript Mathematician](./src/codewars/7-kyu-mathematician.js)
   40. [AOP - Before](./src/codewars/7-kyu-AOP-before.js)
   41. [Flatten and Sort an Array](./src/codewars/7-kyu-flatten-and-sort.js)
-  42. [Number to Digit Tiers](./src/codewars.7-kyu-number-to-digit.js)
+  42. [Number to Digit Tiers](./src/codewars/7-kyu-number-to-digit.js)
+  43. [Fix String Case](./src/7-kyu-fix-string-case.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
   3. [Find The Smallest Integer In The Array](./src/codewars/8-kyu-smallest-value.js)
-  4. [Filling An Array (Part 1)](./src/codewars/8-kyu-filling-an-array.js)
+  4. [Filling An Array (Part 1)](./src/codewars/8-kyu-filling-an-array.js)  
   5. [Calculate Average](./src/codewars/8-kyu-calc-average.js)
 
 #### Hack Reactor
