@@ -55,6 +55,7 @@
   38. [Continents Represented](./src/codewars/6-kyu-continents-represented.js)
   39. [N-th Fibonacci](./src/codewars/6-kyu-nFib.js)
   40. [Find The Unique Number](./src/codewars/6-kyu-find-unique.js)
+  41. [Don't Drive Too Long!](./src/codewars/6-kyu-dont-drive-to-long.js)
 
 - 7 kyu
   1. [Growth of a Population](./src/codewars/7-kyu-growth-of-a-population.js)
@@ -104,7 +105,7 @@
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
   3. [Find The Smallest Integer In The Array](./src/codewars/8-kyu-smallest-value.js)
-  4. [Filling An Array (Part 1)](./src/codewars/8-kyu-filling-an-array.js)  
+  4. [Filling An Array (Part 1)](./src/codewars/8-kyu-filling-an-array.js)
   5. [Calculate Average](./src/codewars/8-kyu-calc-average.js)
 
 #### Hack Reactor
