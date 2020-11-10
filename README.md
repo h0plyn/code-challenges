@@ -129,6 +129,7 @@
 2. [Reverse Integer](./src/leetcode/reverseInteger.js)
 3. [Palindrome Number](./src/leetcode/palindromeNumber.js)
 4. [Roman to Integer](./src/leetcode/romanToInteger.js)
+5. [Number of Steps to Reduce a Number to Zero](./src/leetcode/reduceToZero.js)
 
 #### Codecademy
 
