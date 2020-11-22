@@ -131,6 +131,7 @@
 4. [Roman to Integer](./src/leetcode/romanToInteger.js)
 5. [Number of Steps to Reduce a Number to Zero](./src/leetcode/reduceToZero.js)
 6. [Reverse Vowels of a String](./src/leetcode/reverseVowels.js)
+7. [Running Sum of 1d Array](./src/leetcode/runningSum.js)
 <!-- 6. [Hamming Distance](./src/leetcode/hammingDistance.js) -->
 
 #### Codecademy
