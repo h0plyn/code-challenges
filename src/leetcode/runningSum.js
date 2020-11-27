@@ -9,4 +9,4 @@ var runningSum = function (nums) {
   return nums;
 };
 
-console.log(runningSum([1, 2, 3, 4]));
+runningSum([1, 2, 3, 4]); // [1, 3, 6, 10]

@@ -132,6 +132,7 @@
 5. [Number of Steps to Reduce a Number to Zero](./src/leetcode/reduceToZero.js)
 6. [Reverse Vowels of a String](./src/leetcode/reverseVowels.js)
 7. [Running Sum of 1d Array](./src/leetcode/runningSum.js)
+8. [Kids With The Greatest Number of Candies](./src/kidsWithCandies.js)
 <!-- 6. [Hamming Distance](./src/leetcode/hammingDistance.js) -->
 
 #### Codecademy

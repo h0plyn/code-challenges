@@ -1,0 +1,10 @@
+node_modules
+package-lock.json
+
+
+# Unfinished problems
+src/codewars/4-kyu-strip-comments.js
+src/codewars/5-kyu-penalty-for-speeding.js
+src/codewars/6-kyu-replace-noun-phrases.js
+src/codewars/7-kyu-number-to-digit.js
+src/leetcode/hammingDistance.js
