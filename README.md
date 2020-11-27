@@ -101,6 +101,7 @@
   41. [Flatten and Sort an Array](./src/codewars/7-kyu-flatten-and-sort.js)
   42. [Number to Digit Tiers](./src/codewars/7-kyu-number-to-digit.js)
   43. [Fix String Case](./src/7-kyu-fix-string-case.js)
+  44. [SantaClausable Interface](./src/7-kyu-santaclausable.js)
 - 8 kyu
   1. [Even or Odd](./src/codewars/8-kyu-even-or-odd.js)
   2. [Plural](./src/codewars/8-kyu-plural.js)
