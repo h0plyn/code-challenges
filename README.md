@@ -181,6 +181,7 @@
 37. [RegEx XV : Group Ranges - Negated Character Sets](./src/edabit/regexMatch.js)
 38. [Temperature Converter](./src/edabit/tempConverter.js)
 39. [The Farm Problem](./src/edabit/theFarmProblem)
+40. [Repeat with Recursion]('./src/edabit/repeatWithRecursion.js')
 
 #### Hacker Rank
 
