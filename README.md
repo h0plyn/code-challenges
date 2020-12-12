@@ -182,6 +182,7 @@
 38. [Temperature Converter](./src/edabit/tempConverter.js)
 39. [The Farm Problem](./src/edabit/theFarmProblem)
 40. [Repeat with Recursion]('./src/edabit/repeatWithRecursion.js')
+41. [Peeling Off The Outer Layers](./src/edabit/peelingOffTheOuterLayers.js)
 
 #### Hacker Rank
 
