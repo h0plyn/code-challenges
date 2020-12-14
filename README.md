@@ -183,6 +183,7 @@
 39. [The Farm Problem](./src/edabit/theFarmProblem)
 40. [Repeat with Recursion]('./src/edabit/repeatWithRecursion.js')
 41. [Peeling Off The Outer Layers](./src/edabit/peelingOffTheOuterLayers.js)
+42. [Recursion: Palindrome Phrase](./src/edabit/palindromePhrase.js)
 
 #### Hacker Rank
 
