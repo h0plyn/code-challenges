@@ -184,6 +184,7 @@
 40. [Repeat with Recursion]('./src/edabit/repeatWithRecursion.js')
 41. [Peeling Off The Outer Layers](./src/edabit/peelingOffTheOuterLayers.js)
 42. [Recursion: Palindrome Phrase](./src/edabit/palindromePhrase.js)
+43. [Concat the Args](./src/edabit/concatArgs.js)
 
 #### Hacker Rank
 
