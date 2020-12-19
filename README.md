@@ -194,6 +194,10 @@
 4. [Day 2: Operators](./src/hackerrank/operators.js)
 5. [Day 3: Conditionals](./src/hackerrank/conditionals.js)
 
+#### Algo Expert
+
+1. [Palindrome Check](./src/algoexpert/palindromeCheck.js)
+
 #### Personal
 
 1. [Simple String Reverse](./src/personal/reverseString.js)
