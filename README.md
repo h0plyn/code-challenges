@@ -197,6 +197,10 @@
 #### Algo Expert
 
 1. [Palindrome Check](./src/algoexpert/palindromeCheck.js)
+2. [Bubble Sort](./src/algoexpert/bubbleSort.js)
+3. [Binary Search](./src/algoexpert/binarySearch.js)
+4. [Product Sum](./src/algoexpert/productSum.js)
+5. [Node Depths](./src/algoexpert/nodeDepths.js)
 
 #### Personal
 
@@ -206,3 +210,4 @@
 4. [Three](./src/personal/three.js)
 5. [Closures Example](./src/personal/closuresExample.js)
 6. [iLoop](./src/personal/iLoop.js)
+7. [Python Test](./src/personal/firstPython.py)
