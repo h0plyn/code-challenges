@@ -108,6 +108,7 @@
   3. [Find The Smallest Integer In The Array](./src/codewars/8-kyu-smallest-value.js)
   4. [Filling An Array (Part 1)](./src/codewars/8-kyu-filling-an-array.js)
   5. [Calculate Average](./src/codewars/8-kyu-calc-average.js)
+  6. [Covert and Reverse](./src/codewars/8-kyu-convert-and-reverse.py)
 
 #### Hack Reactor
 
