@@ -202,6 +202,8 @@
 3. [Binary Search](./src/algoexpert/binarySearch.js)
 4. [Product Sum](./src/algoexpert/productSum.js)
 5. [Node Depths](./src/algoexpert/nodeDepths.js)
+6. [Nth Fibonacci](./src/algoexpert/nthFib.js)
+7. [Nth Fibonacci (py)](./src/algoexpert/nthFib.py)
 
 #### Personal
 
