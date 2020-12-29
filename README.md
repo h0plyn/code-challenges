@@ -200,10 +200,11 @@
 1. [Palindrome Check](./src/algoexpert/palindromeCheck.js)
 2. [Bubble Sort](./src/algoexpert/bubbleSort.js)
 3. [Binary Search](./src/algoexpert/binarySearch.js)
-4. [Product Sum](./src/algoexpert/productSum.js)
-5. [Node Depths](./src/algoexpert/nodeDepths.js)
-6. [Nth Fibonacci](./src/algoexpert/nthFib.js)
-7. [Nth Fibonacci (py)](./src/algoexpert/nthFib.py)
+4. [Binary Search (python)](./src/algoexpert/binarySearch.py)
+5. [Product Sum](./src/algoexpert/productSum.js)
+6. [Node Depths](./src/algoexpert/nodeDepths.js)
+7. [Nth Fibonacci](./src/algoexpert/nthFib.js)
+8. [Nth Fibonacci (python)](./src/algoexpert/nthFib.py)
 
 #### Personal
 
