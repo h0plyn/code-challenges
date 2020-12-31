@@ -205,6 +205,7 @@
 6. [Node Depths](./src/algoexpert/nodeDepths.js)
 7. [Nth Fibonacci](./src/algoexpert/nthFib.js)
 8. [Nth Fibonacci (python)](./src/algoexpert/nthFib.py)
+9. [Insertion Sort](./src/algoexpert/insertionSort.js)
 
 #### Personal
 
