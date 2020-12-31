@@ -206,6 +206,8 @@
 7. [Nth Fibonacci](./src/algoexpert/nthFib.js)
 8. [Nth Fibonacci (python)](./src/algoexpert/nthFib.py)
 9. [Insertion Sort](./src/algoexpert/insertionSort.js)
+10. [Insertion Sort (python)](./src/algoexpert/insertionSort.js)
+11. [Validate Subsequence](./src/algoexpert/validateSubsequence.js)
 
 #### Personal
 
