@@ -209,6 +209,8 @@
 10. [Insertion Sort (python)](./src/algoexpert/insertionSort.js)
 11. [Validate Subsequence](./src/algoexpert/validateSubsequence.js)
 12. [Validate Subsequence (python)](./src/algoexpert/validateSubsequence.py)
+13. [Selection Sort](./src/algoexpert/selectionSort.js)
+14. [Selection Sort (python)](./src/algoexpert/selectionSort.py)
 
 #### Personal
 
