@@ -211,6 +211,7 @@
 12. [Validate Subsequence (python)](./src/algoexpert/validateSubsequence.py)
 13. [Selection Sort](./src/algoexpert/selectionSort.js)
 14. [Selection Sort (python)](./src/algoexpert/selectionSort.py)
+15. [Depth First Search](./src/algoexpert/depthFirstSearch.js)
 
 #### Personal
 
