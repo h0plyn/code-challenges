@@ -213,6 +213,7 @@
 14. [Selection Sort (python)](./src/algoexpert/selectionSort.py)
 15. [Depth First Search](./src/algoexpert/depthFirstSearch.js)
 16. [Branch Sums](./src/algoexpert/branchSums.js)
+17. [Largest Three](./src/algoexpert/largestThree.js)
 
 #### Personal
 
