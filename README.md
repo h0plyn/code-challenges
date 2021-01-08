@@ -219,6 +219,7 @@
 20. [Caesar Cipher Encryptor](./src/algoexpert/caesarCipherEncryptor.js)
 21. [BST Traversal](./src/algoexpert/bstTraversal.js)
 22. [Invert Binary Tree](./src/algoexpert/invertBinaryTree.js)
+23. [Move Elemet to End](./src/algoexpert/moveElementToEnd.js)
 
 #### Personal
 
