@@ -221,6 +221,7 @@
 22. [Invert Binary Tree](./src/algoexpert/invertBinaryTree.js)
 23. [Move Elemet to End](./src/algoexpert/moveElementToEnd.js)
 24. [Merge Sort](./src/algoexpert/mergeSort.js)
+25. [Three Number Sum](./src/algoexpert/threeNumberSum.js)
 
 #### Personal
 
