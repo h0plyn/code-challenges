@@ -222,6 +222,8 @@
 23. [Move Elemet to End](./src/algoexpert/moveElementToEnd.js)
 24. [Merge Sort](./src/algoexpert/mergeSort.js)
 25. [Three Number Sum](./src/algoexpert/threeNumberSum.js)
+26. [Search In Sorted Matrix (Python)](./src/algoexpert/searchInSortedMatrix.py)
+27. [Search In Sorted Matrix](./src/algoexpert/searchInSortedMatrix.js)
 
 #### Personal
 
