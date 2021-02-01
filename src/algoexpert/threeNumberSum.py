@@ -1,6 +1,7 @@
 def threeNumberSum(array, targetSum):
-  array.sort()
 	results = []
+	array.sort()
+
 	for i in range(len(array) - 2):
 		left = i + 1
 		right = len(array) - 1
@@ -15,4 +16,3 @@ def threeNumberSum(array, targetSum):
 			elif currentSum > targetSum:
 				right -= 1
 	return results
-
