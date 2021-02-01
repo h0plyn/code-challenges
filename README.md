@@ -224,6 +224,7 @@
 25. [Three Number Sum](./src/algoexpert/threeNumberSum.js)
 26. [Search In Sorted Matrix (Python)](./src/algoexpert/searchInSortedMatrix.py)
 27. [Search In Sorted Matrix](./src/algoexpert/searchInSortedMatrix.js)
+28. [Breadth-First Search](./src/algoexpert/breadthFirstSearch.js)
 
 #### Personal
 
