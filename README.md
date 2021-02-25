@@ -225,6 +225,7 @@
 26. [Search In Sorted Matrix (Python)](./src/algoexpert/searchInSortedMatrix.py)
 27. [Search In Sorted Matrix](./src/algoexpert/searchInSortedMatrix.js)
 28. [Breadth-First Search](./src/algoexpert/breadthFirstSearch.js)
+29. [Class Photo](./src/algoexpert/classPhoto.js)
 
 #### Personal
 
