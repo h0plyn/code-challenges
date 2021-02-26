@@ -1,3 +1,4 @@
+// O(n)t | O(n)s
 export function balancedBrackets(string: string): boolean {
   const openers = '[{(';
   const closers = ']})';
