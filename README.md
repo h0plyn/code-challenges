@@ -11,6 +11,7 @@
   3. [Josephus Permutation](./codewars/5-kyu-josephus-permutation.js)
   4. [Moving Zeros To The End](./codewars/5-kyu-moving-zeros.js)
   5. [Extract The Domain Name From a URL](./codewars/5-kyu-extract-domain.js)
+  6. [RGB To Hex Conversion](./codewars/5-kyu-rgb-to-hex.js)
 
 - 6 kyu
 
