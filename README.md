@@ -230,6 +230,7 @@
 30. [Balanced Brackets](./algoexpert/balancedBrackets.js)
 31. [Balanced Brackets (TypeScript)](./algoexpert/balancedBrackets.ts)
 32. [Remove Duplicates from Linked List](./algoexpert/removeDuplicates.js)
+33. [Linked List Construction]('./algoexpert/linkedListConstruction.js')
 
 #### Personal
 
