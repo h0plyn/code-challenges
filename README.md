@@ -196,7 +196,7 @@
 4. [Day 2: Operators](./hackerrank/operators.js)
 5. [Day 3: Conditionals](./hackerrank/conditionals.js)
 
-#### Algo Expert
+#### AlgoExpert
 
 1. [Palindrome Check](./algoexpert/palindromeCheck.js)
 2. [Bubble Sort](./algoexpert/bubbleSort.js)
@@ -243,3 +243,4 @@
 5. [Closures Example](./personal/closuresExample.js)
 6. [iLoop](./personal/iLoop.js)
 7. [Python Test](./personal/firstPython.py)
+8. [Pair Sum Optimized](./personal/pairSumOptimized.js)
