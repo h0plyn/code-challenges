@@ -233,6 +233,7 @@
 33. [Linked List Construction]('./algoexpert/linkedListConstruction.js')
 34. [Minimum Waiting Time](./algoexpert/minimumWaitingTime.js)
 35. [Tournament Winner](./algoexpert/tournamentWinner.js)
+36. [Sorted Squares](./algoexpert/sortedSquares.js)
 
 #### Personal
 
