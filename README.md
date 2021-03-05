@@ -234,6 +234,7 @@
 34. [Minimum Waiting Time](./algoexpert/minimumWaitingTime.js)
 35. [Tournament Winner](./algoexpert/tournamentWinner.js)
 36. [Sorted Squares](./algoexpert/sortedSquares.js)
+37. [Non-Constructable Change](./algoexpert/nonconstructableChange.js)
 
 #### Personal
 
