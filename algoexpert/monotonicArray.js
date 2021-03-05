@@ -1,16 +1,12 @@
+// O(n)t | O(1)s
 function isMonotonic(array) {
-  let pos = array[0] >= array[1] ? true : false;
-  let neg = array[0] <= array[1] ? true : false;
+  let trendingUp = true;
+  let trendingDown = true;
 
-  for (let i = 0; i <= array.length - 1; i++) {
-    if (pos) {
-      if (array[i] < array[i + 1]) return false;
-    } else if (neg) {
-      if (array[i] > array[i + 1]) return false;
-    }
+  for (let i = 1; i < array.length; i++) {
+    if (array[i] < array[i - 1]) trendingUp = false;
+    if (array[i] > array[i - 1]) trendingDown = false;
   }
 
-  return true;
+  return trendingUp || trendingDown;
 }
-
-console.log(isMonotonic([1, 1, 2, 3, 4, 5, 5, 5, 6, 7, 8, 8, 9, 10, 11]));

@@ -236,6 +236,7 @@
 36. [Sorted Squares](./algoexpert/sortedSquares.js)
 37. [Non-Constructable Change](./algoexpert/nonconstructableChange.js)
 38. [Generate Document](./algoexpert/generateDocument.js)
+39. [Monotonic Array](/algoexpert/monotonicArray.js)
 
 #### Personal
 
