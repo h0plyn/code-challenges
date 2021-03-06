@@ -137,6 +137,7 @@
 7. [Running Sum of 1d Array](./leetcode/runningSum.js)
 8. [Kids With The Greatest Number of Candies](./kidsWithCandies.js)
 <!-- 6. [Hamming Distance](./leetcode/hammingDistance.js) -->
+9. [Reverse Linked List](./leetcode/reverseLinkedList.js)
 
 #### Codecademy
 
