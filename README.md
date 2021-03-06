@@ -237,6 +237,7 @@
 37. [Non-Constructable Change](./algoexpert/nonconstructableChange.js)
 38. [Generate Document](./algoexpert/generateDocument.js)
 39. [Monotonic Array](/algoexpert/monotonicArray.js)
+40. [Remove Islands](./algoexpert/removeIslands.js)
 
 #### Personal
 
