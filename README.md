@@ -240,6 +240,7 @@
 39. [Monotonic Array](/algoexpert/monotonicArray.js)
 40. [Remove Islands](./algoexpert/removeIslands.js)
 41. [Remove Kth Node from Linked List](./algoexpert/removeKthNodeLinkedList.js)
+42. [Sum of Linked List](./algoexpert/sumOfLinkedList.js)
 
 #### Personal
 
