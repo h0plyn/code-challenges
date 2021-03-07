@@ -241,6 +241,7 @@
 40. [Remove Islands](./algoexpert/removeIslands.js)
 41. [Remove Kth Node from Linked List](./algoexpert/removeKthNodeLinkedList.js)
 42. [Sum of Linked List](./algoexpert/sumOfLinkedList.js)
+43. [Reverse a Linked List](./algoexpert/reverseLinkedList.js)
 
 #### Personal
 
