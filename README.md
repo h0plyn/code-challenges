@@ -231,7 +231,7 @@
 30. [Balanced Brackets](./algoexpert/balancedBrackets.js)
 31. [Balanced Brackets (TypeScript)](./algoexpert/balancedBrackets.ts)
 32. [Remove Duplicates from Linked List](./algoexpert/removeDuplicates.js)
-33. [Linked List Construction]('./algoexpert/linkedListConstruction.js')
+33. [Linked List Construction](./algoexpert/linkedListConstruction.js)
 34. [Minimum Waiting Time](./algoexpert/minimumWaitingTime.js)
 35. [Tournament Winner](./algoexpert/tournamentWinner.js)
 36. [Sorted Squares](./algoexpert/sortedSquares.js)
@@ -239,6 +239,7 @@
 38. [Generate Document](./algoexpert/generateDocument.js)
 39. [Monotonic Array](/algoexpert/monotonicArray.js)
 40. [Remove Islands](./algoexpert/removeIslands.js)
+41. [Remove Kth Node from Linked List](./algoexpert/removeKthNodeLinkedList.js)
 
 #### Personal
 
