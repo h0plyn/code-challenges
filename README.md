@@ -138,6 +138,7 @@
 8. [Kids With The Greatest Number of Candies](./kidsWithCandies.js)
 <!-- 6. [Hamming Distance](./leetcode/hammingDistance.js) -->
 9. [Reverse Linked List](./leetcode/reverseLinkedList.js)
+10. [Linked List Cycle](./leetcode/linkedListCycle.js)
 
 #### Codecademy
 
@@ -242,6 +243,7 @@
 41. [Remove Kth Node from Linked List](./algoexpert/removeKthNodeLinkedList.js)
 42. [Sum of Linked List](./algoexpert/sumOfLinkedList.js)
 43. [Reverse a Linked List](./algoexpert/reverseLinkedList.js)
+44. [Find Loop](./algoexpert/findLoop.js)
 
 #### Personal
 
