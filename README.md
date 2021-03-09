@@ -141,6 +141,8 @@
 10. [Linked List Cycle](./leetcode/linkedListCycle.js)
 11. [Reverse Linked List II](./leetcode/reverseMNLinkedList.js)
 12. [Defanging an IP Address](./leetcode/defangingIP.js)
+13. [Preorder BST Traversal](./leetcode/preorderTraversal.js)
+14. [Linked List Cycle II](./leetcode/detectCycle.js)
 
 #### Codecademy
 
@@ -248,7 +250,6 @@
 44. [Find Loop](./algoexpert/findLoop.js)
 45. [Min Max Stack Construction](./algoexpert/minMaxStackConstruction.js)
 46. [Merge Linked Lists](./algoexpert/mergeLinkedList.js)
-
 
 #### Personal
 
