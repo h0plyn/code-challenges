@@ -140,6 +140,7 @@
 9. [Reverse Linked List](./leetcode/reverseLinkedList.js)
 10. [Linked List Cycle](./leetcode/linkedListCycle.js)
 11. [Reverse Linked List II](./leetcode/reverseMNLinkedList.js)
+12. [Defanging an IP Address](./leetcode/defangingIP.js)
 
 #### Codecademy
 
