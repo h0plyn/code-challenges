@@ -246,6 +246,7 @@
 42. [Sum of Linked List](./algoexpert/sumOfLinkedList.js)
 43. [Reverse a Linked List](./algoexpert/reverseLinkedList.js)
 44. [Find Loop](./algoexpert/findLoop.js)
+45. [Min Max Stack Construction](./algoexpert/minMaxStackConstruction.js)
 
 #### Personal
 
