@@ -247,6 +247,7 @@
 43. [Reverse a Linked List](./algoexpert/reverseLinkedList.js)
 44. [Find Loop](./algoexpert/findLoop.js)
 45. [Min Max Stack Construction](./algoexpert/minMaxStackConstruction.js)
+46. [Merge Linked Lists](./algoexpert/mergeLinkedList.js)
 
 #### Personal
 
