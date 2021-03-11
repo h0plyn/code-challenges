@@ -7,8 +7,8 @@ var postorder = function (root) {
   while (stack.length) {
     let currentNode = stack.pop(); // make top of stack the current node to look at
     stack.push(...currentNode.children); // push all children to stack so they can be explored
-    result.push(currentNode.val); // add the current value to the stack noted that we have seen this node
+    result.unshift(currentNode.val); // add the current value to the front of the result array
   }
 
-  return result.reverse(); // return the reversed order
+  return result;
 };
