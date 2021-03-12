@@ -253,6 +253,7 @@
 46. [Merge Linked Lists](./algoexpert/mergeLinkedList.js)
 47. [Sunset Views](./algoexpert/sunsetViews.js)
 48. [Validate BST](./algoexpert/validateBst.js)
+49. [Smallest Difference](./algoexpert/smallestDifference.js)
 
 #### Personal
 
