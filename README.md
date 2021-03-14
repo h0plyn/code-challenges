@@ -257,6 +257,11 @@
 49. [Smallest Difference](./algoexpert/smallestDifference.js)
 50. [Kadane's Algorithm](./algoexpert/kadanesAlgorithm.js)
 
+### Educative
+
+1. [Maximum Sum Subarray of Size K](./educative/maxSumSubarraySize.js)
+2. [Maximum Sum Subarray of Size K (Python)](./educative/maxSumSubarraySize.py)
+
 #### Personal
 
 1. [Simple String Reverse](./personal/reverseString.js)
@@ -267,3 +272,4 @@
 6. [iLoop](./personal/iLoop.js)
 7. [Python Test](./personal/firstPython.py)
 8. [Pair Sum Optimized](./personal/pairSumOptimized.js)
+9. [Recursive Syntax Test](./personal/recursiveTest.js)
