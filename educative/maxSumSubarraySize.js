@@ -1,7 +1,6 @@
 // O(n)t | O(1)s
 // Sliding window pattern
 function maxSumSubarrayOfK(arr, k) {
-  debugger;
   let maxSum = 0;
   let windowStart = 0;
   let windowSum = 0;
