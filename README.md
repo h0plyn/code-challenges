@@ -145,6 +145,7 @@
 14. [Linked List Cycle II](./leetcode/detectCycle.js)
 15. [N-ary Tree Postorder Traversal](./leetcode/naryPostorderBFS.js)
 16. [Maximum Subarray](./leetcode/maximumSubarray.js)
+17. [Valid Anagram](./leetcode/validAnagram.js)
 
 #### Codecademy
 
