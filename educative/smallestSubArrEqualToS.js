@@ -1,3 +1,5 @@
+// O(n)t | O(1)s - where n is the length of the array
+// Technically, O(n+n) time because the inner while loop
 const smallest_subarray_with_given_sum = function (s, arr) {
   debugger;
   let windowSum = 0;

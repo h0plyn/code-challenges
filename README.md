@@ -274,3 +274,4 @@
 7. [Python Test](./personal/firstPython.py)
 8. [Pair Sum Optimized](./personal/pairSumOptimized.js)
 9. [Recursive Syntax Test](./personal/recursiveTest.js)
+10. [Remove Duplicate Anagrams](./personal/removeDuplicateAnagrams.js)
