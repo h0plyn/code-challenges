@@ -263,6 +263,7 @@
 1. [Maximum Sum Subarray of Size K](./educative/maxSumSubarraySize.js)
 2. [Maximum Sum Subarray of Size K (Python)](./educative/maxSumSubarraySize.py)
 3. [Smallest Subarray with a Given Sum](./educative/smallestSubArrEqualToS.js)
+4. [Longest Substring with K Distinct Character](./educative/longestSubWithKDistinct.js)
 
 #### Personal
 
