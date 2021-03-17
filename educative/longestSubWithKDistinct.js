@@ -1,3 +1,4 @@
+// O(n)t | O(k)s - where n is the number of characters in the string and k + 1 is the number of characters in the hashmap
 const longest_substring_with_k_distinct = function (str, k) {
   let charMap = {};
   let longest = -Infinity;
