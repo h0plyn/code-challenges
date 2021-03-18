@@ -266,6 +266,7 @@
 3. [Smallest Subarray with a Given Sum](./educative/smallestSubArrEqualToS.js)
 4. [Longest Substring with K Distinct Character](./educative/longestSubWithKDistinct.js)
 5. [Fruits Into Baskets](./educative/fruitsIntoBaskets.js)
+6. [No-Repeat Substring](./educative/noRepeatSubstring.js)
 
 #### Personal
 
