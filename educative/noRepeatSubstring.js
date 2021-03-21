@@ -30,6 +30,7 @@
 // };
 
 // Optimized Solution
+// We can say this runs in fixed space, O(1), because we know that at max the alphabet has 26 distinct characters
 function non_repeat_substring(str) {
   debugger;
   let windowStart = 0,
