@@ -147,6 +147,7 @@
 16. [Maximum Subarray](./leetcode/maximumSubarray.js)
 17. [Valid Anagram](./leetcode/validAnagram.js)
 18. [Shuffle String](./leetcode/shuffleString.js)
+19. [Shuffle The Array](./leetcode/shuffleArray.js)
 
 #### Codecademy
 
