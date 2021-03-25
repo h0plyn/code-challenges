@@ -148,6 +148,7 @@
 17. [Valid Anagram](./leetcode/validAnagram.js)
 18. [Shuffle String](./leetcode/shuffleString.js)
 19. [Shuffle The Array](./leetcode/shuffleArray.js)
+20. [Time Needed to Inform All Employees](./leetcode/timeNeededToInform.js)
 
 #### Codecademy
 
@@ -276,7 +277,9 @@
 7. [Pair Sum](./educative/pairSum.js)
 8. [Remove Duplicates](./educative/removeDuplicates.js)
 
-#### Personal
+### Personal
+
+#### Random
 
 1. [Simple String Reverse](./personal/reverseString.js)
 2. [Clock Angle Problem](./personal/clockAngleProblem.js)
