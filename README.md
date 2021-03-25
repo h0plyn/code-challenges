@@ -149,6 +149,7 @@
 18. [Shuffle String](./leetcode/shuffleString.js)
 19. [Shuffle The Array](./leetcode/shuffleArray.js)
 20. [Time Needed to Inform All Employees](./leetcode/timeNeededToInform.js)
+21. [Find The Judge](./leetcode/findTheJudge.js)
 
 #### Codecademy
 
@@ -291,3 +292,4 @@
 8. [Pair Sum Optimized](./personal/pairSumOptimized.js)
 9. [Recursive Syntax Test](./personal/recursiveTest.js)
 10. [Remove Duplicate Anagrams](./personal/removeDuplicateAnagrams.js)
+11. [Multi Dim Sum Demo](./personal/multiDumSum.js)

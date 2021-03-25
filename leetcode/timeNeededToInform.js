@@ -34,5 +34,5 @@ function dfs(currentId, adjList, informTime) {
     max = Math.max(max, dfs(subordinates[i], adjList, informTime)); // dfs through subordinates returning the max time it takes to inform their subordinates
   }
 
-  return max + informTime[currentId]; // return the max plus the time it takes the current manager to inform their subordinates
+  return max + informTime[currentId]; // return the max plus the time it takes the current manager to inform their su
 }
