@@ -150,6 +150,7 @@
 19. [Shuffle The Array](./leetcode/shuffleArray.js)
 20. [Time Needed to Inform All Employees](./leetcode/timeNeededToInform.js)
 21. [Find The Judge](./leetcode/findTheJudge.js)
+22. [Number of Balls in a Box](./leetcode/numberOfBallsInBox.js)
 
 #### Codecademy
 
