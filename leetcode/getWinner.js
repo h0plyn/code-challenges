@@ -6,9 +6,8 @@
 
 // O(n)t | O(1)s - where n is the length of the arr
 var getWinner = function (arr, k) {
-  debugger;
   let winCount = 0;
-  let winner = arr[0]; // initialize to first idx
+  let winner = arr[0]; // initialize to 0th idx
   let i = 1;
 
   while (i < arr.length && winCount < k) {
@@ -24,4 +23,3 @@ var getWinner = function (arr, k) {
   return winner;
 };
 
-console.log(getWinner([2, 1, 3, 5, 4, 6, 7], 2));

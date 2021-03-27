@@ -152,6 +152,7 @@
 21. [Find The Judge](./leetcode/findTheJudge.js)
 22. [Number of Balls in a Box](./leetcode/numberOfBallsInBox.js)
 23. [Find the Winner of an Array Game](./leetcode/getWinner.js)
+24. [Can Place Flowers](./leetcode/canPlaceFlowers.js)
 
 #### Codecademy
 
