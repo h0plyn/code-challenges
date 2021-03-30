@@ -284,6 +284,10 @@
 
 ### Personal
 
+#### Dynamic Programming
+
+1. [Minimum Cost Path](./personal/minCostPath.js)
+
 #### Random
 
 1. [Simple String Reverse](./personal/reverseString.js)
