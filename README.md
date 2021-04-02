@@ -154,6 +154,7 @@
 23. [Find the Winner of an Array Game](./leetcode/getWinner.js)
 24. [Can Place Flowers](./leetcode/canPlaceFlowers.js)
 25. [Knight Probability in Chessboard](./leetcode/knightsProbability.js)
+26. [Max Subarray](./leetcode/maxSubArray.js)
 
 #### Codecademy
 
