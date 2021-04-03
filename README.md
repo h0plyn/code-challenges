@@ -302,3 +302,4 @@
 9. [Recursive Syntax Test](./personal/recursiveTest.js)
 10. [Remove Duplicate Anagrams](./personal/removeDuplicateAnagrams.js)
 11. [Multi Dim Sum Demo](./personal/multiDumSum.js)
+12. [Binary Search](./personal/binarySearch.py)
