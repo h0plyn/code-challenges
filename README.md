@@ -304,3 +304,4 @@
 11. [Multi Dim Sum Demo](./personal/multiDumSum.js)
 12. [Binary Search (Python)](./personal/binarySearch.py)
 13. [Binary Search (TypeScript)](./personal/binarySearch.ts)
+14. [Selection Sort (TypeScript)](./personal/selectionSort.ts)
