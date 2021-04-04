@@ -283,6 +283,15 @@
 7. [Pair Sum](./educative/pairSum.js)
 8. [Remove Duplicates](./educative/removeDuplicates.js)
 
+### Grokking Algorithms
+
+#### Sort/Search
+
+1. [Binary Search (Python)](./grokking/binarySearch.py)
+2. [Binary Search (TypeScript)](./grokking/binarySearch.ts)
+3. [Selection Sort (TypeScript)](./grokking/selectionSort.ts)
+4. [Quick Sort (TypeScript)](./grokking/quickSort.ts)
+
 ### Personal
 
 #### Dynamic Programming
@@ -302,6 +311,3 @@
 9. [Recursive Syntax Test](./personal/recursiveTest.js)
 10. [Remove Duplicate Anagrams](./personal/removeDuplicateAnagrams.js)
 11. [Multi Dim Sum Demo](./personal/multiDumSum.js)
-12. [Binary Search (Python)](./personal/binarySearch.py)
-13. [Binary Search (TypeScript)](./personal/binarySearch.ts)
-14. [Selection Sort (TypeScript)](./personal/selectionSort.ts)
