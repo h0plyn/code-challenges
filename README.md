@@ -266,6 +266,7 @@
 48. [Validate BST](./algoexpert/validateBst.js)
 49. [Smallest Difference](./algoexpert/smallestDifference.js)
 50. [Kadane's Algorithm](./algoexpert/kadanesAlgorithm.js)
+51. [Merge Overlapping Intervals](./algoexpert/overlappingIntervals.ts)
 
 ### Educative
 
