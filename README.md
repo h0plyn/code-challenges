@@ -267,6 +267,7 @@
 49. [Smallest Difference](./algoexpert/smallestDifference.js)
 50. [Kadane's Algorithm](./algoexpert/kadanesAlgorithm.js)
 51. [Merge Overlapping Intervals](./algoexpert/overlappingIntervals.ts)
+52. [First Non-Repeating Character](./algoexpert/firstNonrepeating.ts)
 
 ### Educative
 
