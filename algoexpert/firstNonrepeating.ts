@@ -1,3 +1,5 @@
+// O(n)t | O(1)s - where n is the length of the input array
+// Constant time because we know the largest are hashmap will grow is 26 characters
 export function firstNonRepeatingCharacter(string: string) {
   interface Hashmap {
     [key: string]: number;
