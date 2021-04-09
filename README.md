@@ -155,6 +155,7 @@
 24. [Can Place Flowers](./leetcode/canPlaceFlowers.js)
 25. [Knight Probability in Chessboard](./leetcode/knightsProbability.js)
 26. [Max Subarray](./leetcode/maxSubArray.js)
+27. [Climbing Stairs](./leetcode/climbingStairs.ts)
 
 #### Codecademy
 
