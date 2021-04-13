@@ -19,22 +19,35 @@ d.left = f;
 c.left = e;
 
 // // O(n)t | O(d)s - where n is the number of nodes and d is the depth of the deepest branch
-function findDeepestDFS(node, level = 0, deepest = 0, deepestNode = null) {
-  if (level > deepest) {
-    // if we're at the deepest level
-    deepestNode = node; // update deepest node
-    deepest = level; // update deepest level
-  }
+// const findDeepestDFS = (node) => {
+//   debugger;
+//   let deepestNode = node;
+//   let deepestLevel = 0;
 
-  if (node.left) return findDeepest(node.left, level + 1, deepest, deepestNode); // traverse deeper nodes on the left, adding 1 to level each time we go deeper, bring the references with us
-  if (node.right)
-    return findDeepest(node.right, level + 1, deepest, deepestNode); // // traverse deeper nodes on the left, adding 1 to level each time we go deeper, bring the references with us
+//   const find = (node, level = 0) => {
+//     if (node) {
+//       if (level > deepestLevel) {
+//         deepestNode = node;
+//         deepestLevel = level;
+//       }
 
-  return deepestNode.val;
-}
+//       if (node.left) {
+//         find(node.left, level + 1);
+//       }
+//       if (node.right) {
+//         find(node.right, level + 1);
+//       }
+//     }
+//   };
+
+//   find(node);
+
+//   return deepestNode;
+// };
 
 // O(n)t | O(n)s - where n is the number of nodes in the tree
 function findDeepestBFS(node) {
+  debugger;
   let queue = [node];
 
   let current;

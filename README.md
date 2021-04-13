@@ -318,3 +318,4 @@
 11. [Multi Dim Sum Demo](./personal/multiDumSum.js)
 12. [Minimum Jumps](./personal/minJumps.ts)
 13. [Reverse LinkedList Demo](./personal/reverseListDemo.js)
+14. [Max Profit Demo](./personal/maxProfit.js)
