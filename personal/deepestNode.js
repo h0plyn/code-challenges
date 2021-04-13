@@ -18,20 +18,20 @@ b.right = d;
 d.left = f;
 c.left = e;
 
-// // O(n)t | O(d)s - where n is the number of nodes and h is the depth of the deepest branch
-// function findDeepestDFS(node, level = 0, deepest = 0, deepestNode = null) {
-//   if (level > deepest) {
-//     // if we're at the deepest level
-//     deepestNode = node; // update deepest node
-//     deepest = level; // update deepest level
-//   }
+// // O(n)t | O(d)s - where n is the number of nodes and d is the depth of the deepest branch
+function findDeepestDFS(node, level = 0, deepest = 0, deepestNode = null) {
+  if (level > deepest) {
+    // if we're at the deepest level
+    deepestNode = node; // update deepest node
+    deepest = level; // update deepest level
+  }
 
-//   if (node.left) return findDeepest(node.left, level + 1, deepest, deepestNode); // traverse deeper nodes on the left, adding 1 to level each time we go deeper, bring the references with us
-//   if (node.right)
-//     return findDeepest(node.right, level + 1, deepest, deepestNode); // // traverse deeper nodes on the left, adding 1 to level each time we go deeper, bring the references with us
+  if (node.left) return findDeepest(node.left, level + 1, deepest, deepestNode); // traverse deeper nodes on the left, adding 1 to level each time we go deeper, bring the references with us
+  if (node.right)
+    return findDeepest(node.right, level + 1, deepest, deepestNode); // // traverse deeper nodes on the left, adding 1 to level each time we go deeper, bring the references with us
 
-//   return deepestNode.val;
-// }
+  return deepestNode.val;
+}
 
 // O(n)t | O(n)s - where n is the number of nodes in the tree
 function findDeepestBFS(node) {

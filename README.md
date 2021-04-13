@@ -269,6 +269,7 @@
 50. [Kadane's Algorithm](./algoexpert/kadanesAlgorithm.js)
 51. [Merge Overlapping Intervals](./algoexpert/overlappingIntervals.ts)
 52. [First Non-Repeating Character](./algoexpert/firstNonrepeating.ts)
+53. [Tandem Bicycles](./algoexpert/tandemBicycle.ts)
 
 ### Educative
 
