@@ -302,6 +302,7 @@
 #### Dynamic Programming
 
 1. [Minimum Cost Path](./personal/minCostPath.js)
+2. [Product Defects (Max Sub Square Matrix in a Matrix)](./personal/productDefects.js)
 
 #### Random
 
