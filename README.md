@@ -270,6 +270,7 @@
 51. [Merge Overlapping Intervals](./algoexpert/overlappingIntervals.ts)
 52. [First Non-Repeating Character](./algoexpert/firstNonrepeating.ts)
 53. [Tandem Bicycles](./algoexpert/tandemBicycle.ts)
+54. [Spiral Traverse](./algoexpert/spiralTraverse.ts)
 
 ### Educative
 

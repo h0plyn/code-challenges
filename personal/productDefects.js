@@ -1,4 +1,5 @@
 // https://www.chegg.com/homework-help/questions-and-answers/1-product-defects-quality-agent-responsible-inspecting-samples-finished-products-productio-q62329575
+// https://www.youtube.com/watch?v=_Lf1looyJMU
 // Maximum sub square matrix in a matrix
 
 // Bottom up Dynamic Programming approach
@@ -12,9 +13,9 @@ const allSamples = [
 ];
 
 function largestArea(samples) {
-  const dp = new Array(samples.length + 1)
+  const dp = new Array(samples.length)
     .fill(null)
-    .map(() => new Array(samples[0].length + 1).fill(0)); // init dp matrix
+    .map(() => new Array(samples[0].length).fill(0)); // init dp matrix
 
   for (let i = 1; i < samples.length; i++) {
     for (let j = 1; j < samples[i].length; j++) {
@@ -34,7 +35,7 @@ function largestArea(samples) {
       if (dp[row][col] > maxSize) maxSize = dp[row][col];
     }
   }
-
+  console.log(dp);
   return maxSize;
 }
 
