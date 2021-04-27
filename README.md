@@ -156,6 +156,7 @@
 25. [Knight Probability in Chessboard](./leetcode/knightsProbability.js)
 26. [Max Subarray](./leetcode/maxSubArray.js)
 27. [Climbing Stairs](./leetcode/climbingStairs.ts)
+28. [Implement Queue Using Stacks](./leetcode/queueWithStacks.js)
 
 #### Codecademy
 
