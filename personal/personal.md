@@ -2,22 +2,22 @@
 
 #### Dynamic Programming
 
-1. [Minimum Cost Path](./personal/minCostPath.js)
-2. [Product Defects (Max Sub Square Matrix in a Matrix)](./personal/productDefects.js)
+1. [Minimum Cost Path](./minCostPath.js)
+2. [Product Defects (Max Sub Square Matrix in a Matrix)](./productDefects.js)
 
 #### Random
 
-1. [Simple String Reverse](./personal/reverseString.js)
-2. [Clock Angle Problem](./personal/clockAngleProblem.js)
-3. [Functional Programming Practice](./personal/functionalPractice.js)
-4. [Three](./personal/three.js)
-5. [Closures Example](./personal/closuresExample.js)
-6. [iLoop](./personal/iLoop.js)
-7. [Python Test](./personal/firstPython.py)
-8. [Pair Sum Optimized](./personal/pairSumOptimized.js)
-9. [Recursive Syntax Test](./personal/recursiveTest.js)
-10. [Remove Duplicate Anagrams](./personal/removeDuplicateAnagrams.js)
-11. [Multi Dim Sum Demo](./personal/multiDumSum.js)
-12. [Minimum Jumps](./personal/minJumps.ts)
-13. [Reverse LinkedList Demo](./personal/reverseListDemo.js)
-14. [Max Profit Demo](./personal/maxProfit.js)
+1. [Simple String Reverse](./reverseString.js)
+2. [Clock Angle Problem](./clockAngleProblem.js)
+3. [Functional Programming Practice](./functionalPractice.js)
+4. [Three](./three.js)
+5. [Closures Example](./closuresExample.js)
+6. [iLoop](./iLoop.js)
+7. [Python Test](./firstPython.py)
+8. [Pair Sum Optimized](./pairSumOptimized.js)
+9. [Recursive Syntax Test](./recursiveTest.js)
+10. [Remove Duplicate Anagrams](./removeDuplicateAnagrams.js)
+11. [Multi Dim Sum Demo](./multiDumSum.js)
+12. [Minimum Jumps](./minJumps.ts)
+13. [Reverse LinkedList Demo](./reverseListDemo.js)
+14. [Max Profit Demo](./maxProfit.js)
