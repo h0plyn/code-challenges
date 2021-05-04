@@ -8,7 +8,7 @@ const testMatrix: TwoDimMatrix = [
 ];
 
 function matrixBFS(matrix: TwoDimMatrix): number[] {
-  const visited: boolean[][] = matrix.map((row) => row.map(() => false));
+  const visited: boolean[][] = matrix.map((row) => row.map(() => false)); // auxiliary matrix
   const ans: number[] = [];
 
   dfs(0, 0, matrix, visited, ans);
@@ -30,8 +30,9 @@ function dfs(
     col >= matrix[0].length ||
     visited[row][col] === true
   )
-    return;
+    return; // if we're out of bounds or have seen the node, return
 
+    // look up, right, down, left
   let directions: number[][] = [
     [-1, 0],
     [0, 1],
@@ -39,12 +40,12 @@ function dfs(
     [0, -1],
   ];
 
-  ans.push(matrix[row][col]);
-  visited[row][col] = true;
+  ans.push(matrix[row][col]); // push current node
+  visited[row][col] = true; // mark as visited
 
-  for (let i = 0; i < directions.length; i++) {
+  for (let i = 0; i < directions.length; i++) { // traverse based on the up, right, down, left order in our directions array
     const [rowDir, colDir] = directions[i];
-    dfs(row + rowDir, col + colDir, matrix, visited, ans);
+    dfs(row + rowDir, col + colDir, matrix, visited, ans); // pass next direction into DFS
   }
 }
 
