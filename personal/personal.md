@@ -21,3 +21,6 @@
 12. [Minimum Jumps](./minJumps.ts)
 13. [Reverse LinkedList Demo](./reverseListDemo.js)
 14. [Max Profit Demo](./maxProfit.js)
+15. [Find Factor](./findFactor.js)
+16. [Most Visited Marker](./sprints.js)
+17. [River Sizes Demo](./riverSizes.js)
