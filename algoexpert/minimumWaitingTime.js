@@ -12,7 +12,7 @@ function minimumWaitingTime(queries) {
 }
 
 // Naive solution
-// O(n)t | O(n)s
+// O(nlogn)t | O(n)s
 function minimumWaitingTime(queries) {
 	queries.sort((a, b) => a - b)
 	let totalWaitingTime = [0]
