@@ -20,14 +20,20 @@ function matrixBFS(matrix: TwoDimMatrix): number[] {
     .fill(0)
     .map(() => new Array(matrix[0].length).fill(false));
 
-  const queue: number[][] | undefined = [[0, 0]];
+  const queue: number[][] = [[0, 0]];
 
   while (queue.length) {
     const current = queue.shift();
     const row: number = current![0];
     const col: number = current![1];
 
-    if (row < 0 || row > matrix.length || col < 0 || col > matrix[0].length) {
+    if (
+      row < 0 ||
+      row >= matrix.length ||
+      col < 0 ||
+      col >= matrix[0].length ||
+      seen[row][col]
+    ) {
       continue;
     }
 
