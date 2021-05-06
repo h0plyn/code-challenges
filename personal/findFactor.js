@@ -5,9 +5,9 @@ function pthFactor(n, p) {
 
   for (let i = 0; i <= n; i++) {
     if (n % i === 0) factors.push(i);
+    if (factors.length === p) break;
   }
-
   return p > factors.length ? 0 : factors[p - 1];
 }
 
-console.log(pthFactor(10, 3));
+console.log(pthFactor(90028983, 10));
