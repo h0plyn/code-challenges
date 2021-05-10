@@ -31,3 +31,4 @@
 28. [Implement Queue Using Stacks](./queueWithStacks.js)
 29. [Add Strings](./addStrings.ts)
 30. [kTh Factor of N](./kthFactorOfN.ts)
+31. [Design A Leaderboard](./designALeadboard.ts)
