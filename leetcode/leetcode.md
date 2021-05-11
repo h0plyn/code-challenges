@@ -32,3 +32,4 @@
 29. [Add Strings](./addStrings.ts)
 30. [kTh Factor of N](./kthFactorOfN.ts)
 31. [Design A Leaderboard](./designALeadboard.ts)
+32. [Find Max Consecutive Ones](./findMaxConsecutiveOnes.ts)
