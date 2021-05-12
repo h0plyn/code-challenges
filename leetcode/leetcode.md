@@ -33,3 +33,4 @@
 30. [kTh Factor of N](./kthFactorOfN.ts)
 31. [Design A Leaderboard](./designALeadboard.ts)
 32. [Find Max Consecutive Ones](./findMaxConsecutiveOnes.ts)
+33. [Longest Substring Without Repeating Characters](./leetcode/longestSubstringWithoutRepeating.ts)
