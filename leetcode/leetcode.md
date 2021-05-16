@@ -36,3 +36,4 @@
 33. [Longest Substring Without Repeating Characters](./leetcode/longestSubstringWithoutRepeating.ts)
 34. [Remove Linked List Elements](./removeLinkedListElements.ts)
 35. [Logger Rate Limiter](./loggerRateLimiter.ts)
+36. [Diet Plan Performance](./dietPlanPerformance.ts)

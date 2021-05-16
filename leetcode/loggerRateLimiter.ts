@@ -6,8 +6,10 @@ class Logger {
   }
 
   shouldPrintMessage(timestamp: number, message: string): boolean {
-    if (this._wait[message]) { // if the message is in the map
-      if (timestamp < this._wait[message]) { // if the timestamp is less than the corresponding map timestamp, return false
+    if (this._wait[message]) {
+      // if the message is in the map
+      if (timestamp < this._wait[message]) {
+        // if the timestamp is less than the corresponding map timestamp, return false
         return false;
       }
     }
