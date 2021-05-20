@@ -38,3 +38,4 @@
 35. [Logger Rate Limiter](./loggerRateLimiter.ts)
 36. [Diet Plan Performance](./dietPlanPerformance.ts)
 37. [Valid Parens](./validParens.ts)
+38. [Search BST](./searchBST.ts)
