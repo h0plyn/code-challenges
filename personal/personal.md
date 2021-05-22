@@ -24,3 +24,4 @@
 15. [Find Factor](./findFactor.js)
 16. [Most Visited Marker](./sprints.js)
 17. [River Sizes Demo](./riverSizes.js)
+18. [Fisher Yates(Random Shuffle)](./fisherYates.ts)
