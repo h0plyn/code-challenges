@@ -39,3 +39,4 @@
 36. [Diet Plan Performance](./dietPlanPerformance.ts)
 37. [Valid Parens](./validParens.ts)
 38. [Search BST](./searchBST.ts)
+39. [Sum Left Leaves](./sumLeftLeaves.js)
