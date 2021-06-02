@@ -40,3 +40,4 @@
 37. [Valid Parens](./validParens.ts)
 38. [Search BST](./searchBST.ts)
 39. [Sum Left Leaves](./sumLeftLeaves.js)
+40. [Find First and Last Position of Element in Sorted Array](./firstAndLastIndex.js)
