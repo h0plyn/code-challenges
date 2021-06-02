@@ -6,7 +6,7 @@
 
 // O(n)t | O(1)s - where n is the length of the input array
 var searchRange = function (nums, target) {
-  let left = 0,
+  let left = 0,r
     right = nums.length - 1,
     first = -1,
     last = -1;
