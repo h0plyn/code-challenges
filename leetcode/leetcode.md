@@ -42,3 +42,4 @@
 39. [Sum Left Leaves](./sumLeftLeaves.js)
 40. [Find First and Last Position of Element in Sorted Array](./firstAndLastIndex.js)
 41. [Group Anagrams](./groupAnagrams.js)
+42. [Jewels and Stones](./jewelsAndStones.js)
